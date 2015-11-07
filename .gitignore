@@ -1,0 +1,9 @@
+# use package.json and npm install. never check in node_modules
+node_modules
+
+# This is a typescript project, ignore *.js and *.js.map
+*.js
+*.js.map
+
+
+.idea
