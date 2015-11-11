@@ -16,29 +16,29 @@ var streetNamesArrayLength = streetNamesArray.length;
 var zipCodesArray = require('../datasets/zipCodes.json').zipCodes;
 var zipCodesArrayLength = zipCodesArray.length;
 
-export interface IPerson {
-    firstName: string;
-    lastName: string;
-    birthDate:string;
-    gender:string;
-    address:string;
-}
+var request = require('request');
+var BufferList = require('bufferlist').BufferList;
+var uuid = require('node-uuid');
 
-export class Person implements IPerson {
-
+export class Person {
+    personId: string;
     firstName:string;
     lastName:string;
     birthDate: string;
     gender:string;
     address: string;
+    phoneNumber:string;
 
     constructor() {
+        this.personId = uuid.v1();
         this.gender = this.getRandomGender();
         this.firstName = this.getRandomFirstName();
         this.lastName = this.getRandomFirstName();
         this.lastName = this.getRandomLastName();
         this.birthDate = this.getRandomBirthDate();
         this.address = this.getRandomAddress();
+        this.phoneNumber = this.getRandomPhoneNumber();
+        //this.getRandomProfileImageDataURI();
     }
 
     getRandomGender(){
@@ -75,6 +75,33 @@ export class Person implements IPerson {
         //var state = zipCode.cityState.split(", ")[1];
         //var zip = zipCode.code;
         return `${houseNumber} ${streetName}; ${zipCode.cityState} ${zipCode.code}`;
+    }
+
+    getRandomPhoneNumber(){
+        var part1 = Math.floor(Math.random() * (999 - 100) + 100);
+        var part2 = Math.floor(Math.random() * (9999 - 1000) + 1000);
+        return `555-${part1}-${part2}`;
+    }
+
+    getRandomProfileImageDataURI(){
+        var query = 'foobar';
+        var apiURL = `https://ajax.googleapis.com/ajax/services/search/images?v=1.0&q=${query}&rsz=8`;
+        request(apiURL, function (error, response, body) {
+            if (!error && response.statusCode == 200) {
+                var jsonResponse = JSON.parse(body);
+
+                var url = jsonResponse.responseData.results[0].url;
+                var bl = new BufferList();
+                request({uri:url, encoding: 'binary'}, function (error, response, body) {
+                    if (!error && response.statusCode == 200) {
+                        var data_uri_prefix = "data:" + response.headers["content-type"] + ";base64,";
+                        var image = new Buffer(body.toString(), 'binary').toString('base64');
+                        image = data_uri_prefix + image;
+                        console.log(image)
+                    }
+                });
+            }
+        });
     }
 
     getAge(){

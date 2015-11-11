@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/OR13/FakePeople#readme",
   "dependencies": {
+    "bufferlist": "^0.1.0",
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
+    "node-uuid": "^1.4.3",
     "q": "^1.4.1",
     "q-foreach": "0.0.3",
     "request": "^2.65.0",
