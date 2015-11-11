@@ -1,0 +1,5388 @@
+{
+  "zipCodes": [
+    {
+      "code": "01020",
+      "cityState": "Chicopee, MA"
+    },
+    {
+      "code": "01040",
+      "cityState": "Holyoke, MA"
+    },
+    {
+      "code": "01085",
+      "cityState": "Westfield, MA"
+    },
+    {
+      "code": "01089",
+      "cityState": "West Springfield, MA"
+    },
+    {
+      "code": "01201",
+      "cityState": "Pittsfield, MA"
+    },
+    {
+      "code": "01420",
+      "cityState": "Fitchburg, MA"
+    },
+    {
+      "code": "01453",
+      "cityState": "Leominster, MA"
+    },
+    {
+      "code": "01545",
+      "cityState": "Shrewsbury, MA"
+    },
+    {
+      "code": "01604",
+      "cityState": "Worcester, MA"
+    },
+    {
+      "code": "01701",
+      "cityState": "Framingham, MA"
+    },
+    {
+      "code": "01752",
+      "cityState": "Marlborough, MA"
+    },
+    {
+      "code": "01757",
+      "cityState": "Milford, MA"
+    },
+    {
+      "code": "01760",
+      "cityState": "Natick, MA"
+    },
+    {
+      "code": "01801",
+      "cityState": "Woburn, MA"
+    },
+    {
+      "code": "01803",
+      "cityState": "Burlington, MA"
+    },
+    {
+      "code": "01810",
+      "cityState": "Andover, MA"
+    },
+    {
+      "code": "01821",
+      "cityState": "Billerica, MA"
+    },
+    {
+      "code": "01824",
+      "cityState": "Chelmsford, MA"
+    },
+    {
+      "code": "01826",
+      "cityState": "Dracut, MA"
+    },
+    {
+      "code": "01841",
+      "cityState": "Lawrence, MA"
+    },
+    {
+      "code": "01844",
+      "cityState": "Methuen, MA"
+    },
+    {
+      "code": "01845",
+      "cityState": "North Andover, MA"
+    },
+    {
+      "code": "01851",
+      "cityState": "Lowell, MA"
+    },
+    {
+      "code": "01867",
+      "cityState": "Reading, MA"
+    },
+    {
+      "code": "01876",
+      "cityState": "Tewksbury, MA"
+    },
+    {
+      "code": "01880",
+      "cityState": "Wakefield, MA"
+    },
+    {
+      "code": "01886",
+      "cityState": "Westford, MA"
+    },
+    {
+      "code": "01887",
+      "cityState": "Wilmington, MA"
+    },
+    {
+      "code": "01902",
+      "cityState": "Lynn, MA"
+    },
+    {
+      "code": "01906",
+      "cityState": "Saugus, MA"
+    },
+    {
+      "code": "01915",
+      "cityState": "Beverly, MA"
+    },
+    {
+      "code": "01923",
+      "cityState": "Danvers, MA"
+    },
+    {
+      "code": "01930",
+      "cityState": "Gloucester, MA"
+    },
+    {
+      "code": "01960",
+      "cityState": "Peabody, MA"
+    },
+    {
+      "code": "01970",
+      "cityState": "Salem, MA"
+    },
+    {
+      "code": "02026",
+      "cityState": "Dedham, MA"
+    },
+    {
+      "code": "02038",
+      "cityState": "Franklin, MA"
+    },
+    {
+      "code": "02048",
+      "cityState": "Mansfield, MA"
+    },
+    {
+      "code": "02062",
+      "cityState": "Norwood, MA"
+    },
+    {
+      "code": "02072",
+      "cityState": "Stoughton, MA"
+    },
+    {
+      "code": "02124",
+      "cityState": "Dorchester Center, MA"
+    },
+    {
+      "code": "02125",
+      "cityState": "Dorchester, MA"
+    },
+    {
+      "code": "02127",
+      "cityState": "Boston, MA"
+    },
+    {
+      "code": "02130",
+      "cityState": "Jamaica Plain, MA"
+    },
+    {
+      "code": "02131",
+      "cityState": "Roslindale, MA"
+    },
+    {
+      "code": "02132",
+      "cityState": "West Roxbury, MA"
+    },
+    {
+      "code": "02135",
+      "cityState": "Brighton, MA"
+    },
+    {
+      "code": "02136",
+      "cityState": "Hyde Park, MA"
+    },
+    {
+      "code": "02138",
+      "cityState": "Cambridge, MA"
+    },
+    {
+      "code": "02148",
+      "cityState": "Malden, MA"
+    },
+    {
+      "code": "02149",
+      "cityState": "Everett, MA"
+    },
+    {
+      "code": "02150",
+      "cityState": "Chelsea, MA"
+    },
+    {
+      "code": "02151",
+      "cityState": "Revere, MA"
+    },
+    {
+      "code": "02155",
+      "cityState": "Medford, MA"
+    },
+    {
+      "code": "02169",
+      "cityState": "Quincy, MA"
+    },
+    {
+      "code": "02176",
+      "cityState": "Melrose, MA"
+    },
+    {
+      "code": "02184",
+      "cityState": "Braintree, MA"
+    },
+    {
+      "code": "02186",
+      "cityState": "Milton, MA"
+    },
+    {
+      "code": "02301",
+      "cityState": "Brockton, MA"
+    },
+    {
+      "code": "02360",
+      "cityState": "Plymouth, MA"
+    },
+    {
+      "code": "02368",
+      "cityState": "Randolph, MA"
+    },
+    {
+      "code": "02446",
+      "cityState": "Brookline, MA"
+    },
+    {
+      "code": "02453",
+      "cityState": "Waltham, MA"
+    },
+    {
+      "code": "02472",
+      "cityState": "Watertown, MA"
+    },
+    {
+      "code": "02474",
+      "cityState": "Arlington, MA"
+    },
+    {
+      "code": "02478",
+      "cityState": "Belmont, MA"
+    },
+    {
+      "code": "02703",
+      "cityState": "Attleboro, MA"
+    },
+    {
+      "code": "02720",
+      "cityState": "Fall River, MA"
+    },
+    {
+      "code": "02740",
+      "cityState": "New Bedford, MA"
+    },
+    {
+      "code": "02760",
+      "cityState": "North Attleboro, MA"
+    },
+    {
+      "code": "02780",
+      "cityState": "Taunton, MA"
+    },
+    {
+      "code": "02816",
+      "cityState": "Coventry, RI"
+    },
+    {
+      "code": "02852",
+      "cityState": "North Kingstown, RI"
+    },
+    {
+      "code": "02860",
+      "cityState": "Pawtucket, RI"
+    },
+    {
+      "code": "02864",
+      "cityState": "Cumberland, RI"
+    },
+    {
+      "code": "02886",
+      "cityState": "Warwick, RI"
+    },
+    {
+      "code": "02893",
+      "cityState": "West Warwick, RI"
+    },
+    {
+      "code": "02895",
+      "cityState": "Woonsocket, RI"
+    },
+    {
+      "code": "02904",
+      "cityState": "Providence, RI"
+    },
+    {
+      "code": "02919",
+      "cityState": "Johnston, RI"
+    },
+    {
+      "code": "02920",
+      "cityState": "Cranston, RI"
+    },
+    {
+      "code": "03038",
+      "cityState": "Derry, NH"
+    },
+    {
+      "code": "03051",
+      "cityState": "Hudson, NH"
+    },
+    {
+      "code": "03053",
+      "cityState": "Londonderry, NH"
+    },
+    {
+      "code": "03054",
+      "cityState": "Merrimack, NH"
+    },
+    {
+      "code": "03060",
+      "cityState": "Nashua, NH"
+    },
+    {
+      "code": "03102",
+      "cityState": "Manchester, NH"
+    },
+    {
+      "code": "03301",
+      "cityState": "Concord, NH"
+    },
+    {
+      "code": "03820",
+      "cityState": "Dover, NH"
+    },
+    {
+      "code": "04103",
+      "cityState": "Portland, ME"
+    },
+    {
+      "code": "04106",
+      "cityState": "South Portland, ME"
+    },
+    {
+      "code": "04240",
+      "cityState": "Lewiston, ME"
+    },
+    {
+      "code": "04401",
+      "cityState": "Bangor, ME"
+    },
+    {
+      "code": "06010",
+      "cityState": "Bristol, CT"
+    },
+    {
+      "code": "06033",
+      "cityState": "Glastonbury, CT"
+    },
+    {
+      "code": "06051",
+      "cityState": "New Britain, CT"
+    },
+    {
+      "code": "06066",
+      "cityState": "Vernon Rockville, CT"
+    },
+    {
+      "code": "06074",
+      "cityState": "South Windsor, CT"
+    },
+    {
+      "code": "06082",
+      "cityState": "Enfield, CT"
+    },
+    {
+      "code": "06095",
+      "cityState": "Windsor, CT"
+    },
+    {
+      "code": "06106",
+      "cityState": "Hartford, CT"
+    },
+    {
+      "code": "06109",
+      "cityState": "Wethersfield, CT"
+    },
+    {
+      "code": "06111",
+      "cityState": "Newington, CT"
+    },
+    {
+      "code": "06118",
+      "cityState": "East Hartford, CT"
+    },
+    {
+      "code": "06340",
+      "cityState": "Groton, CT"
+    },
+    {
+      "code": "06360",
+      "cityState": "Norwich, CT"
+    },
+    {
+      "code": "06405",
+      "cityState": "Branford, CT"
+    },
+    {
+      "code": "06410",
+      "cityState": "Cheshire, CT"
+    },
+    {
+      "code": "06450",
+      "cityState": "Meriden, CT"
+    },
+    {
+      "code": "06457",
+      "cityState": "Middletown, CT"
+    },
+    {
+      "code": "06473",
+      "cityState": "North Haven, CT"
+    },
+    {
+      "code": "06484",
+      "cityState": "Shelton, CT"
+    },
+    {
+      "code": "06489",
+      "cityState": "Southington, CT"
+    },
+    {
+      "code": "06492",
+      "cityState": "Wallingford, CT"
+    },
+    {
+      "code": "06511",
+      "cityState": "New Haven, CT"
+    },
+    {
+      "code": "06512",
+      "cityState": "East Haven, CT"
+    },
+    {
+      "code": "06514",
+      "cityState": "Hamden, CT"
+    },
+    {
+      "code": "06516",
+      "cityState": "West Haven, CT"
+    },
+    {
+      "code": "06606",
+      "cityState": "Bridgeport, CT"
+    },
+    {
+      "code": "06611",
+      "cityState": "Trumbull, CT"
+    },
+    {
+      "code": "06614",
+      "cityState": "Stratford, CT"
+    },
+    {
+      "code": "06705",
+      "cityState": "Waterbury, CT"
+    },
+    {
+      "code": "06770",
+      "cityState": "Naugatuck, CT"
+    },
+    {
+      "code": "06776",
+      "cityState": "New Milford, CT"
+    },
+    {
+      "code": "06790",
+      "cityState": "Torrington, CT"
+    },
+    {
+      "code": "06810",
+      "cityState": "Danbury, CT"
+    },
+    {
+      "code": "06824",
+      "cityState": "Fairfield, CT"
+    },
+    {
+      "code": "06851",
+      "cityState": "Norwalk, CT"
+    },
+    {
+      "code": "06877",
+      "cityState": "Ridgefield, CT"
+    },
+    {
+      "code": "06880",
+      "cityState": "Westport, CT"
+    },
+    {
+      "code": "06902",
+      "cityState": "Stamford, CT"
+    },
+    {
+      "code": "07002",
+      "cityState": "Bayonne, NJ"
+    },
+    {
+      "code": "07003",
+      "cityState": "Bloomfield, NJ"
+    },
+    {
+      "code": "07006",
+      "cityState": "Caldwell, NJ"
+    },
+    {
+      "code": "07011",
+      "cityState": "Clifton, NJ"
+    },
+    {
+      "code": "07016",
+      "cityState": "Cranford, NJ"
+    },
+    {
+      "code": "07017",
+      "cityState": "East Orange, NJ"
+    },
+    {
+      "code": "07024",
+      "cityState": "Fort Lee, NJ"
+    },
+    {
+      "code": "07026",
+      "cityState": "Garfield, NJ"
+    },
+    {
+      "code": "07030",
+      "cityState": "Hoboken, NJ"
+    },
+    {
+      "code": "07032",
+      "cityState": "Kearny, NJ"
+    },
+    {
+      "code": "07036",
+      "cityState": "Linden, NJ"
+    },
+    {
+      "code": "07039",
+      "cityState": "Livingston, NJ"
+    },
+    {
+      "code": "07040",
+      "cityState": "Maplewood, NJ"
+    },
+    {
+      "code": "07042",
+      "cityState": "Montclair, NJ"
+    },
+    {
+      "code": "07047",
+      "cityState": "North Bergen, NJ"
+    },
+    {
+      "code": "07050",
+      "cityState": "Orange, NJ"
+    },
+    {
+      "code": "07052",
+      "cityState": "West Orange, NJ"
+    },
+    {
+      "code": "07054",
+      "cityState": "Parsippany, NJ"
+    },
+    {
+      "code": "07055",
+      "cityState": "Passaic, NJ"
+    },
+    {
+      "code": "07060",
+      "cityState": "Plainfield, NJ"
+    },
+    {
+      "code": "07065",
+      "cityState": "Rahway, NJ"
+    },
+    {
+      "code": "07076",
+      "cityState": "Scotch Plains, NJ"
+    },
+    {
+      "code": "07080",
+      "cityState": "South Plainfield, NJ"
+    },
+    {
+      "code": "07083",
+      "cityState": "Union, NJ"
+    },
+    {
+      "code": "07087",
+      "cityState": "Union City, NJ"
+    },
+    {
+      "code": "07093",
+      "cityState": "West New York, NJ"
+    },
+    {
+      "code": "07103",
+      "cityState": "Newark, NJ"
+    },
+    {
+      "code": "07109",
+      "cityState": "Belleville, NJ"
+    },
+    {
+      "code": "07110",
+      "cityState": "Nutley, NJ"
+    },
+    {
+      "code": "07111",
+      "cityState": "Irvington, NJ"
+    },
+    {
+      "code": "07202",
+      "cityState": "Elizabeth, NJ"
+    },
+    {
+      "code": "07302",
+      "cityState": "Jersey City, NJ"
+    },
+    {
+      "code": "07410",
+      "cityState": "Fair Lawn, NJ"
+    },
+    {
+      "code": "07424",
+      "cityState": "Little Falls, NJ"
+    },
+    {
+      "code": "07430",
+      "cityState": "Mahwah, NJ"
+    },
+    {
+      "code": "07450",
+      "cityState": "Ridgewood, NJ"
+    },
+    {
+      "code": "07470",
+      "cityState": "Wayne, NJ"
+    },
+    {
+      "code": "07501",
+      "cityState": "Paterson, NJ"
+    },
+    {
+      "code": "07601",
+      "cityState": "Hackensack, NJ"
+    },
+    {
+      "code": "07621",
+      "cityState": "Bergenfield, NJ"
+    },
+    {
+      "code": "07631",
+      "cityState": "Englewood, NJ"
+    },
+    {
+      "code": "07652",
+      "cityState": "Paramus, NJ"
+    },
+    {
+      "code": "07666",
+      "cityState": "Teaneck, NJ"
+    },
+    {
+      "code": "07675",
+      "cityState": "Westwood, NJ"
+    },
+    {
+      "code": "07712",
+      "cityState": "Asbury Park, NJ"
+    },
+    {
+      "code": "07726",
+      "cityState": "Englishtown, NJ"
+    },
+    {
+      "code": "07728",
+      "cityState": "Freehold, NJ"
+    },
+    {
+      "code": "07731",
+      "cityState": "Howell, NJ"
+    },
+    {
+      "code": "07740",
+      "cityState": "Long Branch, NJ"
+    },
+    {
+      "code": "07747",
+      "cityState": "Matawan, NJ"
+    },
+    {
+      "code": "07753",
+      "cityState": "Neptune, NJ"
+    },
+    {
+      "code": "07840",
+      "cityState": "Hackettstown, NJ"
+    },
+    {
+      "code": "07860",
+      "cityState": "Newton, NJ"
+    },
+    {
+      "code": "07866",
+      "cityState": "Rockaway, NJ"
+    },
+    {
+      "code": "07920",
+      "cityState": "Basking Ridge, NJ"
+    },
+    {
+      "code": "07960",
+      "cityState": "Morristown, NJ"
+    },
+    {
+      "code": "08003",
+      "cityState": "Cherry Hill, NJ"
+    },
+    {
+      "code": "08012",
+      "cityState": "Blackwood, NJ"
+    },
+    {
+      "code": "08021",
+      "cityState": "Clementon, NJ"
+    },
+    {
+      "code": "08037",
+      "cityState": "Hammonton, NJ"
+    },
+    {
+      "code": "08043",
+      "cityState": "Voorhees, NJ"
+    },
+    {
+      "code": "08046",
+      "cityState": "Willingboro, NJ"
+    },
+    {
+      "code": "08050",
+      "cityState": "Manahawkin, NJ"
+    },
+    {
+      "code": "08053",
+      "cityState": "Marlton, NJ"
+    },
+    {
+      "code": "08054",
+      "cityState": "Mount Laurel, NJ"
+    },
+    {
+      "code": "08060",
+      "cityState": "Mount Holly, NJ"
+    },
+    {
+      "code": "08075",
+      "cityState": "Riverside, NJ"
+    },
+    {
+      "code": "08080",
+      "cityState": "Sewell, NJ"
+    },
+    {
+      "code": "08081",
+      "cityState": "Sicklerville, NJ"
+    },
+    {
+      "code": "08087",
+      "cityState": "Tuckerton, NJ"
+    },
+    {
+      "code": "08088",
+      "cityState": "Vincentown, NJ"
+    },
+    {
+      "code": "08094",
+      "cityState": "Williamstown, NJ"
+    },
+    {
+      "code": "08096",
+      "cityState": "West Deptford, NJ"
+    },
+    {
+      "code": "08105",
+      "cityState": "Camden, NJ"
+    },
+    {
+      "code": "08205",
+      "cityState": "Absecon, NJ"
+    },
+    {
+      "code": "08234",
+      "cityState": "Egg Harbor Township, NJ"
+    },
+    {
+      "code": "08302",
+      "cityState": "Bridgeton, NJ"
+    },
+    {
+      "code": "08330",
+      "cityState": "Mays Landing, NJ"
+    },
+    {
+      "code": "08332",
+      "cityState": "Millville, NJ"
+    },
+    {
+      "code": "08360",
+      "cityState": "Vineland, NJ"
+    },
+    {
+      "code": "08401",
+      "cityState": "Atlantic City, NJ"
+    },
+    {
+      "code": "08520",
+      "cityState": "Hightstown, NJ"
+    },
+    {
+      "code": "08527",
+      "cityState": "Jackson, NJ"
+    },
+    {
+      "code": "08540",
+      "cityState": "Princeton, NJ"
+    },
+    {
+      "code": "08610",
+      "cityState": "Trenton, NJ"
+    },
+    {
+      "code": "08648",
+      "cityState": "Lawrence Township, NJ"
+    },
+    {
+      "code": "08701",
+      "cityState": "Lakewood, NJ"
+    },
+    {
+      "code": "08723",
+      "cityState": "Brick, NJ"
+    },
+    {
+      "code": "08742",
+      "cityState": "Point Pleasant Beach, NJ"
+    },
+    {
+      "code": "08753",
+      "cityState": "Toms River, NJ"
+    },
+    {
+      "code": "08759",
+      "cityState": "Manchester Township, NJ"
+    },
+    {
+      "code": "08807",
+      "cityState": "Bridgewater, NJ"
+    },
+    {
+      "code": "08816",
+      "cityState": "East Brunswick, NJ"
+    },
+    {
+      "code": "08817",
+      "cityState": "Edison, NJ"
+    },
+    {
+      "code": "08822",
+      "cityState": "Flemington, NJ"
+    },
+    {
+      "code": "08831",
+      "cityState": "Monroe Township, NJ"
+    },
+    {
+      "code": "08844",
+      "cityState": "Hillsborough, NJ"
+    },
+    {
+      "code": "08854",
+      "cityState": "Piscataway, NJ"
+    },
+    {
+      "code": "08857",
+      "cityState": "Old Bridge, NJ"
+    },
+    {
+      "code": "08859",
+      "cityState": "Parlin, NJ"
+    },
+    {
+      "code": "08861",
+      "cityState": "Perth Amboy, NJ"
+    },
+    {
+      "code": "08865",
+      "cityState": "Phillipsburg, NJ"
+    },
+    {
+      "code": "08873",
+      "cityState": "Somerset, NJ"
+    },
+    {
+      "code": "08901",
+      "cityState": "New Brunswick, NJ"
+    },
+    {
+      "code": "08902",
+      "cityState": "North Brunswick, NJ"
+    },
+    {
+      "code": "10002",
+      "cityState": "New York, NY"
+    },
+    {
+      "code": "10301",
+      "cityState": "Staten Island, NY"
+    },
+    {
+      "code": "10451",
+      "cityState": "Bronx, NY"
+    },
+    {
+      "code": "10512",
+      "cityState": "Carmel, NY"
+    },
+    {
+      "code": "10541",
+      "cityState": "Mahopac, NY"
+    },
+    {
+      "code": "10550",
+      "cityState": "Mount Vernon, NY"
+    },
+    {
+      "code": "10562",
+      "cityState": "Ossining, NY"
+    },
+    {
+      "code": "10573",
+      "cityState": "Port Chester, NY"
+    },
+    {
+      "code": "10583",
+      "cityState": "Scarsdale, NY"
+    },
+    {
+      "code": "10598",
+      "cityState": "Yorktown Heights, NY"
+    },
+    {
+      "code": "10701",
+      "cityState": "Yonkers, NY"
+    },
+    {
+      "code": "10801",
+      "cityState": "New Rochelle, NY"
+    },
+    {
+      "code": "10950",
+      "cityState": "Monroe, NY"
+    },
+    {
+      "code": "10952",
+      "cityState": "Monsey, NY"
+    },
+    {
+      "code": "10954",
+      "cityState": "Nanuet, NY"
+    },
+    {
+      "code": "10956",
+      "cityState": "New City, NY"
+    },
+    {
+      "code": "10977",
+      "cityState": "Spring Valley, NY"
+    },
+    {
+      "code": "11001",
+      "cityState": "Floral Park, NY"
+    },
+    {
+      "code": "11003",
+      "cityState": "Elmont, NY"
+    },
+    {
+      "code": "11010",
+      "cityState": "Franklin Square, NY"
+    },
+    {
+      "code": "11040",
+      "cityState": "New Hyde Park, NY"
+    },
+    {
+      "code": "11050",
+      "cityState": "Port Washington, NY"
+    },
+    {
+      "code": "11102",
+      "cityState": "Astoria, NY"
+    },
+    {
+      "code": "11104",
+      "cityState": "Sunnyside, NY"
+    },
+    {
+      "code": "11201",
+      "cityState": "Brooklyn, NY"
+    },
+    {
+      "code": "11354",
+      "cityState": "Flushing, NY"
+    },
+    {
+      "code": "11357",
+      "cityState": "Whitestone, NY"
+    },
+    {
+      "code": "11361",
+      "cityState": "Bayside, NY"
+    },
+    {
+      "code": "11364",
+      "cityState": "Oakland Gardens, NY"
+    },
+    {
+      "code": "11365",
+      "cityState": "Fresh Meadows, NY"
+    },
+    {
+      "code": "11368",
+      "cityState": "Corona, NY"
+    },
+    {
+      "code": "11369",
+      "cityState": "East Elmhurst, NY"
+    },
+    {
+      "code": "11372",
+      "cityState": "Jackson Heights, NY"
+    },
+    {
+      "code": "11373",
+      "cityState": "Elmhurst, NY"
+    },
+    {
+      "code": "11374",
+      "cityState": "Rego Park, NY"
+    },
+    {
+      "code": "11375",
+      "cityState": "Forest Hills, NY"
+    },
+    {
+      "code": "11377",
+      "cityState": "Woodside, NY"
+    },
+    {
+      "code": "11378",
+      "cityState": "Maspeth, NY"
+    },
+    {
+      "code": "11379",
+      "cityState": "Middle Village, NY"
+    },
+    {
+      "code": "11412",
+      "cityState": "Saint Albans, NY"
+    },
+    {
+      "code": "11413",
+      "cityState": "Springfield Gardens, NY"
+    },
+    {
+      "code": "11414",
+      "cityState": "Howard Beach, NY"
+    },
+    {
+      "code": "11417",
+      "cityState": "Ozone Park, NY"
+    },
+    {
+      "code": "11418",
+      "cityState": "Richmond Hill, NY"
+    },
+    {
+      "code": "11419",
+      "cityState": "South Richmond Hill, NY"
+    },
+    {
+      "code": "11420",
+      "cityState": "South Ozone Park, NY"
+    },
+    {
+      "code": "11421",
+      "cityState": "Woodhaven, NY"
+    },
+    {
+      "code": "11422",
+      "cityState": "Rosedale, NY"
+    },
+    {
+      "code": "11423",
+      "cityState": "Hollis, NY"
+    },
+    {
+      "code": "11432",
+      "cityState": "Jamaica, NY"
+    },
+    {
+      "code": "11510",
+      "cityState": "Baldwin, NY"
+    },
+    {
+      "code": "11520",
+      "cityState": "Freeport, NY"
+    },
+    {
+      "code": "11530",
+      "cityState": "Garden City, NY"
+    },
+    {
+      "code": "11542",
+      "cityState": "Glen Cove, NY"
+    },
+    {
+      "code": "11550",
+      "cityState": "Hempstead, NY"
+    },
+    {
+      "code": "11552",
+      "cityState": "West Hempstead, NY"
+    },
+    {
+      "code": "11553",
+      "cityState": "Uniondale, NY"
+    },
+    {
+      "code": "11554",
+      "cityState": "East Meadow, NY"
+    },
+    {
+      "code": "11561",
+      "cityState": "Long Beach, NY"
+    },
+    {
+      "code": "11566",
+      "cityState": "Merrick, NY"
+    },
+    {
+      "code": "11570",
+      "cityState": "Rockville Centre, NY"
+    },
+    {
+      "code": "11572",
+      "cityState": "Oceanside, NY"
+    },
+    {
+      "code": "11580",
+      "cityState": "Valley Stream, NY"
+    },
+    {
+      "code": "11590",
+      "cityState": "Westbury, NY"
+    },
+    {
+      "code": "11691",
+      "cityState": "Far Rockaway, NY"
+    },
+    {
+      "code": "11701",
+      "cityState": "Amityville, NY"
+    },
+    {
+      "code": "11704",
+      "cityState": "West Babylon, NY"
+    },
+    {
+      "code": "11706",
+      "cityState": "Bay Shore, NY"
+    },
+    {
+      "code": "11710",
+      "cityState": "Bellmore, NY"
+    },
+    {
+      "code": "11714",
+      "cityState": "Bethpage, NY"
+    },
+    {
+      "code": "11717",
+      "cityState": "Brentwood, NY"
+    },
+    {
+      "code": "11720",
+      "cityState": "Centereach, NY"
+    },
+    {
+      "code": "11722",
+      "cityState": "Central Islip, NY"
+    },
+    {
+      "code": "11725",
+      "cityState": "Commack, NY"
+    },
+    {
+      "code": "11727",
+      "cityState": "Coram, NY"
+    },
+    {
+      "code": "11729",
+      "cityState": "Deer Park, NY"
+    },
+    {
+      "code": "11731",
+      "cityState": "East Northport, NY"
+    },
+    {
+      "code": "11735",
+      "cityState": "Farmingdale, NY"
+    },
+    {
+      "code": "11741",
+      "cityState": "Holbrook, NY"
+    },
+    {
+      "code": "11743",
+      "cityState": "Huntington, NY"
+    },
+    {
+      "code": "11746",
+      "cityState": "Huntington Station, NY"
+    },
+    {
+      "code": "11756",
+      "cityState": "Levittown, NY"
+    },
+    {
+      "code": "11757",
+      "cityState": "Lindenhurst, NY"
+    },
+    {
+      "code": "11758",
+      "cityState": "Massapequa, NY"
+    },
+    {
+      "code": "11762",
+      "cityState": "Massapequa Park, NY"
+    },
+    {
+      "code": "11772",
+      "cityState": "Patchogue, NY"
+    },
+    {
+      "code": "11776",
+      "cityState": "Port Jefferson Station, NY"
+    },
+    {
+      "code": "11779",
+      "cityState": "Ronkonkoma, NY"
+    },
+    {
+      "code": "11784",
+      "cityState": "Selden, NY"
+    },
+    {
+      "code": "11787",
+      "cityState": "Smithtown, NY"
+    },
+    {
+      "code": "11791",
+      "cityState": "Syosset, NY"
+    },
+    {
+      "code": "11793",
+      "cityState": "Wantagh, NY"
+    },
+    {
+      "code": "11795",
+      "cityState": "West Islip, NY"
+    },
+    {
+      "code": "11801",
+      "cityState": "Hicksville, NY"
+    },
+    {
+      "code": "11803",
+      "cityState": "Plainview, NY"
+    },
+    {
+      "code": "11967",
+      "cityState": "Shirley, NY"
+    },
+    {
+      "code": "12010",
+      "cityState": "Amsterdam, NY"
+    },
+    {
+      "code": "12020",
+      "cityState": "Ballston Spa, NY"
+    },
+    {
+      "code": "12065",
+      "cityState": "Clifton Park, NY"
+    },
+    {
+      "code": "12180",
+      "cityState": "Troy, NY"
+    },
+    {
+      "code": "12203",
+      "cityState": "Albany, NY"
+    },
+    {
+      "code": "12302",
+      "cityState": "Schenectady, NY"
+    },
+    {
+      "code": "12401",
+      "cityState": "Kingston, NY"
+    },
+    {
+      "code": "12533",
+      "cityState": "Hopewell Junction, NY"
+    },
+    {
+      "code": "12550",
+      "cityState": "Newburgh, NY"
+    },
+    {
+      "code": "12553",
+      "cityState": "New Windsor, NY"
+    },
+    {
+      "code": "12590",
+      "cityState": "Wappingers Falls, NY"
+    },
+    {
+      "code": "12601",
+      "cityState": "Poughkeepsie, NY"
+    },
+    {
+      "code": "12804",
+      "cityState": "Queensbury, NY"
+    },
+    {
+      "code": "12866",
+      "cityState": "Saratoga Springs, NY"
+    },
+    {
+      "code": "12901",
+      "cityState": "Plattsburgh, NY"
+    },
+    {
+      "code": "13021",
+      "cityState": "Auburn, NY"
+    },
+    {
+      "code": "13027",
+      "cityState": "Baldwinsville, NY"
+    },
+    {
+      "code": "13090",
+      "cityState": "Liverpool, NY"
+    },
+    {
+      "code": "13126",
+      "cityState": "Oswego, NY"
+    },
+    {
+      "code": "13440",
+      "cityState": "Rome, NY"
+    },
+    {
+      "code": "13501",
+      "cityState": "Utica, NY"
+    },
+    {
+      "code": "13760",
+      "cityState": "Endicott, NY"
+    },
+    {
+      "code": "14043",
+      "cityState": "Depew, NY"
+    },
+    {
+      "code": "14075",
+      "cityState": "Hamburg, NY"
+    },
+    {
+      "code": "14086",
+      "cityState": "Lancaster, NY"
+    },
+    {
+      "code": "14094",
+      "cityState": "Lockport, NY"
+    },
+    {
+      "code": "14120",
+      "cityState": "North Tonawanda, NY"
+    },
+    {
+      "code": "14127",
+      "cityState": "Orchard Park, NY"
+    },
+    {
+      "code": "14150",
+      "cityState": "Tonawanda, NY"
+    },
+    {
+      "code": "14215",
+      "cityState": "Buffalo, NY"
+    },
+    {
+      "code": "14304",
+      "cityState": "Niagara Falls, NY"
+    },
+    {
+      "code": "14424",
+      "cityState": "Canandaigua, NY"
+    },
+    {
+      "code": "14450",
+      "cityState": "Fairport, NY"
+    },
+    {
+      "code": "14534",
+      "cityState": "Pittsford, NY"
+    },
+    {
+      "code": "14580",
+      "cityState": "Webster, NY"
+    },
+    {
+      "code": "14606",
+      "cityState": "Rochester, NY"
+    },
+    {
+      "code": "14701",
+      "cityState": "Jamestown, NY"
+    },
+    {
+      "code": "14850",
+      "cityState": "Ithaca, NY"
+    },
+    {
+      "code": "15001",
+      "cityState": "Aliquippa, PA"
+    },
+    {
+      "code": "15010",
+      "cityState": "Beaver Falls, PA"
+    },
+    {
+      "code": "15044",
+      "cityState": "Gibsonia, PA"
+    },
+    {
+      "code": "15068",
+      "cityState": "New Kensington, PA"
+    },
+    {
+      "code": "15101",
+      "cityState": "Allison Park, PA"
+    },
+    {
+      "code": "15102",
+      "cityState": "Bethel Park, PA"
+    },
+    {
+      "code": "15108",
+      "cityState": "Coraopolis, PA"
+    },
+    {
+      "code": "15146",
+      "cityState": "Monroeville, PA"
+    },
+    {
+      "code": "15206",
+      "cityState": "Pittsburgh, PA"
+    },
+    {
+      "code": "15301",
+      "cityState": "Washington, PA"
+    },
+    {
+      "code": "15317",
+      "cityState": "Canonsburg, PA"
+    },
+    {
+      "code": "15401",
+      "cityState": "Uniontown, PA"
+    },
+    {
+      "code": "15601",
+      "cityState": "Greensburg, PA"
+    },
+    {
+      "code": "15642",
+      "cityState": "Irwin, PA"
+    },
+    {
+      "code": "15650",
+      "cityState": "Latrobe, PA"
+    },
+    {
+      "code": "15701",
+      "cityState": "Indiana, PA"
+    },
+    {
+      "code": "16001",
+      "cityState": "Butler, PA"
+    },
+    {
+      "code": "16066",
+      "cityState": "Cranberry Twp, PA"
+    },
+    {
+      "code": "16101",
+      "cityState": "New Castle, PA"
+    },
+    {
+      "code": "16335",
+      "cityState": "Meadville, PA"
+    },
+    {
+      "code": "16506",
+      "cityState": "Erie, PA"
+    },
+    {
+      "code": "16601",
+      "cityState": "Altoona, PA"
+    },
+    {
+      "code": "16801",
+      "cityState": "State College, PA"
+    },
+    {
+      "code": "17011",
+      "cityState": "Camp Hill, PA"
+    },
+    {
+      "code": "17013",
+      "cityState": "Carlisle, PA"
+    },
+    {
+      "code": "17022",
+      "cityState": "Elizabethtown, PA"
+    },
+    {
+      "code": "17036",
+      "cityState": "Hummelstown, PA"
+    },
+    {
+      "code": "17042",
+      "cityState": "Lebanon, PA"
+    },
+    {
+      "code": "17050",
+      "cityState": "Mechanicsburg, PA"
+    },
+    {
+      "code": "17109",
+      "cityState": "Harrisburg, PA"
+    },
+    {
+      "code": "17201",
+      "cityState": "Chambersburg, PA"
+    },
+    {
+      "code": "17268",
+      "cityState": "Waynesboro, PA"
+    },
+    {
+      "code": "17325",
+      "cityState": "Gettysburg, PA"
+    },
+    {
+      "code": "17331",
+      "cityState": "Hanover, PA"
+    },
+    {
+      "code": "17402",
+      "cityState": "York, PA"
+    },
+    {
+      "code": "17522",
+      "cityState": "Ephrata, PA"
+    },
+    {
+      "code": "17543",
+      "cityState": "Lititz, PA"
+    },
+    {
+      "code": "17701",
+      "cityState": "Williamsport, PA"
+    },
+    {
+      "code": "18015",
+      "cityState": "Bethlehem, PA"
+    },
+    {
+      "code": "18042",
+      "cityState": "Easton, PA"
+    },
+    {
+      "code": "18052",
+      "cityState": "Whitehall, PA"
+    },
+    {
+      "code": "18062",
+      "cityState": "Macungie, PA"
+    },
+    {
+      "code": "18064",
+      "cityState": "Nazareth, PA"
+    },
+    {
+      "code": "18102",
+      "cityState": "Allentown, PA"
+    },
+    {
+      "code": "18201",
+      "cityState": "Hazleton, PA"
+    },
+    {
+      "code": "18301",
+      "cityState": "East Stroudsburg, PA"
+    },
+    {
+      "code": "18360",
+      "cityState": "Stroudsburg, PA"
+    },
+    {
+      "code": "18702",
+      "cityState": "Wilkes Barre, PA"
+    },
+    {
+      "code": "18901",
+      "cityState": "Doylestown, PA"
+    },
+    {
+      "code": "18940",
+      "cityState": "Newtown, PA"
+    },
+    {
+      "code": "18944",
+      "cityState": "Perkasie, PA"
+    },
+    {
+      "code": "18951",
+      "cityState": "Quakertown, PA"
+    },
+    {
+      "code": "18966",
+      "cityState": "Southampton, PA"
+    },
+    {
+      "code": "18974",
+      "cityState": "Warminster, PA"
+    },
+    {
+      "code": "19002",
+      "cityState": "Ambler, PA"
+    },
+    {
+      "code": "19013",
+      "cityState": "Chester, PA"
+    },
+    {
+      "code": "19020",
+      "cityState": "Bensalem, PA"
+    },
+    {
+      "code": "19026",
+      "cityState": "Drexel Hill, PA"
+    },
+    {
+      "code": "19038",
+      "cityState": "Glenside, PA"
+    },
+    {
+      "code": "19047",
+      "cityState": "Langhorne, PA"
+    },
+    {
+      "code": "19050",
+      "cityState": "Lansdowne, PA"
+    },
+    {
+      "code": "19053",
+      "cityState": "Feasterville Trevose, PA"
+    },
+    {
+      "code": "19061",
+      "cityState": "Marcus Hook, PA"
+    },
+    {
+      "code": "19063",
+      "cityState": "Media, PA"
+    },
+    {
+      "code": "19064",
+      "cityState": "Springfield, PA"
+    },
+    {
+      "code": "19067",
+      "cityState": "Morrisville, PA"
+    },
+    {
+      "code": "19082",
+      "cityState": "Upper Darby, PA"
+    },
+    {
+      "code": "19083",
+      "cityState": "Havertown, PA"
+    },
+    {
+      "code": "19111",
+      "cityState": "Philadelphia, PA"
+    },
+    {
+      "code": "19320",
+      "cityState": "Coatesville, PA"
+    },
+    {
+      "code": "19335",
+      "cityState": "Downingtown, PA"
+    },
+    {
+      "code": "19355",
+      "cityState": "Malvern, PA"
+    },
+    {
+      "code": "19380",
+      "cityState": "West Chester, PA"
+    },
+    {
+      "code": "19401",
+      "cityState": "Norristown, PA"
+    },
+    {
+      "code": "19406",
+      "cityState": "King Of Prussia, PA"
+    },
+    {
+      "code": "19426",
+      "cityState": "Collegeville, PA"
+    },
+    {
+      "code": "19438",
+      "cityState": "Harleysville, PA"
+    },
+    {
+      "code": "19446",
+      "cityState": "Lansdale, PA"
+    },
+    {
+      "code": "19454",
+      "cityState": "North Wales, PA"
+    },
+    {
+      "code": "19460",
+      "cityState": "Phoenixville, PA"
+    },
+    {
+      "code": "19464",
+      "cityState": "Pottstown, PA"
+    },
+    {
+      "code": "19468",
+      "cityState": "Royersford, PA"
+    },
+    {
+      "code": "19701",
+      "cityState": "Bear, DE"
+    },
+    {
+      "code": "20109",
+      "cityState": "Manassas, VA"
+    },
+    {
+      "code": "20120",
+      "cityState": "Centreville, VA"
+    },
+    {
+      "code": "20136",
+      "cityState": "Bristow, VA"
+    },
+    {
+      "code": "20147",
+      "cityState": "Ashburn, VA"
+    },
+    {
+      "code": "20155",
+      "cityState": "Gainesville, VA"
+    },
+    {
+      "code": "20164",
+      "cityState": "Sterling, VA"
+    },
+    {
+      "code": "20170",
+      "cityState": "Herndon, VA"
+    },
+    {
+      "code": "20175",
+      "cityState": "Leesburg, VA"
+    },
+    {
+      "code": "20191",
+      "cityState": "Reston, VA"
+    },
+    {
+      "code": "20601",
+      "cityState": "Waldorf, MD"
+    },
+    {
+      "code": "20705",
+      "cityState": "Beltsville, MD"
+    },
+    {
+      "code": "20706",
+      "cityState": "Lanham, MD"
+    },
+    {
+      "code": "20707",
+      "cityState": "Laurel, MD"
+    },
+    {
+      "code": "20715",
+      "cityState": "Bowie, MD"
+    },
+    {
+      "code": "20735",
+      "cityState": "Clinton, MD"
+    },
+    {
+      "code": "20743",
+      "cityState": "Capitol Heights, MD"
+    },
+    {
+      "code": "20744",
+      "cityState": "Fort Washington, MD"
+    },
+    {
+      "code": "20745",
+      "cityState": "Oxon Hill, MD"
+    },
+    {
+      "code": "20746",
+      "cityState": "Suitland, MD"
+    },
+    {
+      "code": "20747",
+      "cityState": "District Heights, MD"
+    },
+    {
+      "code": "20748",
+      "cityState": "Temple Hills, MD"
+    },
+    {
+      "code": "20772",
+      "cityState": "Upper Marlboro, MD"
+    },
+    {
+      "code": "20782",
+      "cityState": "Hyattsville, MD"
+    },
+    {
+      "code": "20814",
+      "cityState": "Bethesda, MD"
+    },
+    {
+      "code": "20815",
+      "cityState": "Chevy Chase, MD"
+    },
+    {
+      "code": "20832",
+      "cityState": "Olney, MD"
+    },
+    {
+      "code": "20850",
+      "cityState": "Rockville, MD"
+    },
+    {
+      "code": "20854",
+      "cityState": "Potomac, MD"
+    },
+    {
+      "code": "20874",
+      "cityState": "Germantown, MD"
+    },
+    {
+      "code": "20877",
+      "cityState": "Gaithersburg, MD"
+    },
+    {
+      "code": "20886",
+      "cityState": "Montgomery Village, MD"
+    },
+    {
+      "code": "20901",
+      "cityState": "Silver Spring, MD"
+    },
+    {
+      "code": "21009",
+      "cityState": "Abingdon, MD"
+    },
+    {
+      "code": "21014",
+      "cityState": "Bel Air, MD"
+    },
+    {
+      "code": "21030",
+      "cityState": "Cockeysville, MD"
+    },
+    {
+      "code": "21042",
+      "cityState": "Ellicott City, MD"
+    },
+    {
+      "code": "21044",
+      "cityState": "Columbia, MD"
+    },
+    {
+      "code": "21060",
+      "cityState": "Glen Burnie, MD"
+    },
+    {
+      "code": "21075",
+      "cityState": "Elkridge, MD"
+    },
+    {
+      "code": "21093",
+      "cityState": "Lutherville Timonium, MD"
+    },
+    {
+      "code": "21113",
+      "cityState": "Odenton, MD"
+    },
+    {
+      "code": "21114",
+      "cityState": "Crofton, MD"
+    },
+    {
+      "code": "21117",
+      "cityState": "Owings Mills, MD"
+    },
+    {
+      "code": "21122",
+      "cityState": "Pasadena, MD"
+    },
+    {
+      "code": "21133",
+      "cityState": "Randallstown, MD"
+    },
+    {
+      "code": "21136",
+      "cityState": "Reisterstown, MD"
+    },
+    {
+      "code": "21144",
+      "cityState": "Severn, MD"
+    },
+    {
+      "code": "21146",
+      "cityState": "Severna Park, MD"
+    },
+    {
+      "code": "21157",
+      "cityState": "Westminster, MD"
+    },
+    {
+      "code": "21206",
+      "cityState": "Baltimore, MD"
+    },
+    {
+      "code": "21207",
+      "cityState": "Gwynn Oak, MD"
+    },
+    {
+      "code": "21208",
+      "cityState": "Pikesville, MD"
+    },
+    {
+      "code": "21220",
+      "cityState": "Middle River, MD"
+    },
+    {
+      "code": "21221",
+      "cityState": "Essex, MD"
+    },
+    {
+      "code": "21222",
+      "cityState": "Dundalk, MD"
+    },
+    {
+      "code": "21227",
+      "cityState": "Halethorpe, MD"
+    },
+    {
+      "code": "21228",
+      "cityState": "Catonsville, MD"
+    },
+    {
+      "code": "21234",
+      "cityState": "Parkville, MD"
+    },
+    {
+      "code": "21236",
+      "cityState": "Nottingham, MD"
+    },
+    {
+      "code": "21244",
+      "cityState": "Windsor Mill, MD"
+    },
+    {
+      "code": "21401",
+      "cityState": "Annapolis, MD"
+    },
+    {
+      "code": "21701",
+      "cityState": "Frederick, MD"
+    },
+    {
+      "code": "21740",
+      "cityState": "Hagerstown, MD"
+    },
+    {
+      "code": "21771",
+      "cityState": "Mount Airy, MD"
+    },
+    {
+      "code": "21784",
+      "cityState": "Sykesville, MD"
+    },
+    {
+      "code": "21801",
+      "cityState": "Salisbury, MD"
+    },
+    {
+      "code": "21921",
+      "cityState": "Elkton, MD"
+    },
+    {
+      "code": "22003",
+      "cityState": "Annandale, VA"
+    },
+    {
+      "code": "22015",
+      "cityState": "Burke, VA"
+    },
+    {
+      "code": "22030",
+      "cityState": "Fairfax, VA"
+    },
+    {
+      "code": "22041",
+      "cityState": "Falls Church, VA"
+    },
+    {
+      "code": "22079",
+      "cityState": "Lorton, VA"
+    },
+    {
+      "code": "22101",
+      "cityState": "Mc Lean, VA"
+    },
+    {
+      "code": "22180",
+      "cityState": "Vienna, VA"
+    },
+    {
+      "code": "22191",
+      "cityState": "Woodbridge, VA"
+    },
+    {
+      "code": "22304",
+      "cityState": "Alexandria, VA"
+    },
+    {
+      "code": "22405",
+      "cityState": "Fredericksburg, VA"
+    },
+    {
+      "code": "22554",
+      "cityState": "Stafford, VA"
+    },
+    {
+      "code": "22601",
+      "cityState": "Winchester, VA"
+    },
+    {
+      "code": "22630",
+      "cityState": "Front Royal, VA"
+    },
+    {
+      "code": "22701",
+      "cityState": "Culpeper, VA"
+    },
+    {
+      "code": "22801",
+      "cityState": "Harrisonburg, VA"
+    },
+    {
+      "code": "22901",
+      "cityState": "Charlottesville, VA"
+    },
+    {
+      "code": "23059",
+      "cityState": "Glen Allen, VA"
+    },
+    {
+      "code": "23111",
+      "cityState": "Mechanicsville, VA"
+    },
+    {
+      "code": "23112",
+      "cityState": "Midlothian, VA"
+    },
+    {
+      "code": "23139",
+      "cityState": "Powhatan, VA"
+    },
+    {
+      "code": "23185",
+      "cityState": "Williamsburg, VA"
+    },
+    {
+      "code": "23223",
+      "cityState": "Richmond, VA"
+    },
+    {
+      "code": "23228",
+      "cityState": "Henrico, VA"
+    },
+    {
+      "code": "23320",
+      "cityState": "Chesapeake, VA"
+    },
+    {
+      "code": "23434",
+      "cityState": "Suffolk, VA"
+    },
+    {
+      "code": "23451",
+      "cityState": "Virginia Beach, VA"
+    },
+    {
+      "code": "23503",
+      "cityState": "Norfolk, VA"
+    },
+    {
+      "code": "23601",
+      "cityState": "Newport News, VA"
+    },
+    {
+      "code": "23666",
+      "cityState": "Hampton, VA"
+    },
+    {
+      "code": "23693",
+      "cityState": "Yorktown, VA"
+    },
+    {
+      "code": "23703",
+      "cityState": "Portsmouth, VA"
+    },
+    {
+      "code": "23803",
+      "cityState": "Petersburg, VA"
+    },
+    {
+      "code": "23832",
+      "cityState": "Chesterfield, VA"
+    },
+    {
+      "code": "23834",
+      "cityState": "Colonial Heights, VA"
+    },
+    {
+      "code": "23860",
+      "cityState": "Hopewell, VA"
+    },
+    {
+      "code": "24012",
+      "cityState": "Roanoke, VA"
+    },
+    {
+      "code": "24060",
+      "cityState": "Blacksburg, VA"
+    },
+    {
+      "code": "24073",
+      "cityState": "Christiansburg, VA"
+    },
+    {
+      "code": "24112",
+      "cityState": "Martinsville, VA"
+    },
+    {
+      "code": "24401",
+      "cityState": "Staunton, VA"
+    },
+    {
+      "code": "24502",
+      "cityState": "Lynchburg, VA"
+    },
+    {
+      "code": "24540",
+      "cityState": "Danville, VA"
+    },
+    {
+      "code": "25801",
+      "cityState": "Beckley, WV"
+    },
+    {
+      "code": "26003",
+      "cityState": "Wheeling, WV"
+    },
+    {
+      "code": "26101",
+      "cityState": "Parkersburg, WV"
+    },
+    {
+      "code": "26301",
+      "cityState": "Clarksburg, WV"
+    },
+    {
+      "code": "26508",
+      "cityState": "Morgantown, WV"
+    },
+    {
+      "code": "26554",
+      "cityState": "Fairmont, WV"
+    },
+    {
+      "code": "27012",
+      "cityState": "Clemmons, NC"
+    },
+    {
+      "code": "27028",
+      "cityState": "Mocksville, NC"
+    },
+    {
+      "code": "27103",
+      "cityState": "Winston Salem, NC"
+    },
+    {
+      "code": "27205",
+      "cityState": "Asheboro, NC"
+    },
+    {
+      "code": "27253",
+      "cityState": "Graham, NC"
+    },
+    {
+      "code": "27265",
+      "cityState": "High Point, NC"
+    },
+    {
+      "code": "27284",
+      "cityState": "Kernersville, NC"
+    },
+    {
+      "code": "27292",
+      "cityState": "Lexington, NC"
+    },
+    {
+      "code": "27302",
+      "cityState": "Mebane, NC"
+    },
+    {
+      "code": "27320",
+      "cityState": "Reidsville, NC"
+    },
+    {
+      "code": "27330",
+      "cityState": "Sanford, NC"
+    },
+    {
+      "code": "27360",
+      "cityState": "Thomasville, NC"
+    },
+    {
+      "code": "27405",
+      "cityState": "Greensboro, NC"
+    },
+    {
+      "code": "27502",
+      "cityState": "Apex, NC"
+    },
+    {
+      "code": "27511",
+      "cityState": "Cary, NC"
+    },
+    {
+      "code": "27516",
+      "cityState": "Chapel Hill, NC"
+    },
+    {
+      "code": "27520",
+      "cityState": "Clayton, NC"
+    },
+    {
+      "code": "27526",
+      "cityState": "Fuquay Varina, NC"
+    },
+    {
+      "code": "27529",
+      "cityState": "Garner, NC"
+    },
+    {
+      "code": "27530",
+      "cityState": "Goldsboro, NC"
+    },
+    {
+      "code": "27540",
+      "cityState": "Holly Springs, NC"
+    },
+    {
+      "code": "27587",
+      "cityState": "Wake Forest, NC"
+    },
+    {
+      "code": "27603",
+      "cityState": "Raleigh, NC"
+    },
+    {
+      "code": "27703",
+      "cityState": "Durham, NC"
+    },
+    {
+      "code": "27804",
+      "cityState": "Rocky Mount, NC"
+    },
+    {
+      "code": "27834",
+      "cityState": "Greenville, NC"
+    },
+    {
+      "code": "27870",
+      "cityState": "Roanoke Rapids, NC"
+    },
+    {
+      "code": "27893",
+      "cityState": "Wilson, NC"
+    },
+    {
+      "code": "27909",
+      "cityState": "Elizabeth City, NC"
+    },
+    {
+      "code": "28031",
+      "cityState": "Cornelius, NC"
+    },
+    {
+      "code": "28052",
+      "cityState": "Gastonia, NC"
+    },
+    {
+      "code": "28078",
+      "cityState": "Huntersville, NC"
+    },
+    {
+      "code": "28079",
+      "cityState": "Indian Trail, NC"
+    },
+    {
+      "code": "28086",
+      "cityState": "Kings Mountain, NC"
+    },
+    {
+      "code": "28092",
+      "cityState": "Lincolnton, NC"
+    },
+    {
+      "code": "28104",
+      "cityState": "Matthews, NC"
+    },
+    {
+      "code": "28115",
+      "cityState": "Mooresville, NC"
+    },
+    {
+      "code": "28173",
+      "cityState": "Waxhaw, NC"
+    },
+    {
+      "code": "28205",
+      "cityState": "Charlotte, NC"
+    },
+    {
+      "code": "28303",
+      "cityState": "Fayetteville, NC"
+    },
+    {
+      "code": "28348",
+      "cityState": "Hope Mills, NC"
+    },
+    {
+      "code": "28358",
+      "cityState": "Lumberton, NC"
+    },
+    {
+      "code": "28376",
+      "cityState": "Raeford, NC"
+    },
+    {
+      "code": "28451",
+      "cityState": "Leland, NC"
+    },
+    {
+      "code": "28540",
+      "cityState": "Jacksonville, NC"
+    },
+    {
+      "code": "28560",
+      "cityState": "New Bern, NC"
+    },
+    {
+      "code": "28601",
+      "cityState": "Hickory, NC"
+    },
+    {
+      "code": "28625",
+      "cityState": "Statesville, NC"
+    },
+    {
+      "code": "28645",
+      "cityState": "Lenoir, NC"
+    },
+    {
+      "code": "28655",
+      "cityState": "Morganton, NC"
+    },
+    {
+      "code": "28752",
+      "cityState": "Marion, NC"
+    },
+    {
+      "code": "28792",
+      "cityState": "Hendersonville, NC"
+    },
+    {
+      "code": "28803",
+      "cityState": "Asheville, NC"
+    },
+    {
+      "code": "29063",
+      "cityState": "Irmo, SC"
+    },
+    {
+      "code": "29150",
+      "cityState": "Sumter, SC"
+    },
+    {
+      "code": "29301",
+      "cityState": "Spartanburg, SC"
+    },
+    {
+      "code": "29349",
+      "cityState": "Inman, SC"
+    },
+    {
+      "code": "29406",
+      "cityState": "Charleston, SC"
+    },
+    {
+      "code": "29440",
+      "cityState": "Georgetown, SC"
+    },
+    {
+      "code": "29445",
+      "cityState": "Goose Creek, SC"
+    },
+    {
+      "code": "29456",
+      "cityState": "Ladson, SC"
+    },
+    {
+      "code": "29461",
+      "cityState": "Moncks Corner, SC"
+    },
+    {
+      "code": "29464",
+      "cityState": "Mount Pleasant, SC"
+    },
+    {
+      "code": "29483",
+      "cityState": "Summerville, SC"
+    },
+    {
+      "code": "29501",
+      "cityState": "Florence, SC"
+    },
+    {
+      "code": "29526",
+      "cityState": "Conway, SC"
+    },
+    {
+      "code": "29550",
+      "cityState": "Hartsville, SC"
+    },
+    {
+      "code": "29576",
+      "cityState": "Murrells Inlet, SC"
+    },
+    {
+      "code": "29577",
+      "cityState": "Myrtle Beach, SC"
+    },
+    {
+      "code": "29621",
+      "cityState": "Anderson, SC"
+    },
+    {
+      "code": "29640",
+      "cityState": "Easley, SC"
+    },
+    {
+      "code": "29646",
+      "cityState": "Greenwood, SC"
+    },
+    {
+      "code": "29650",
+      "cityState": "Greer, SC"
+    },
+    {
+      "code": "29673",
+      "cityState": "Piedmont, SC"
+    },
+    {
+      "code": "29680",
+      "cityState": "Simpsonville, SC"
+    },
+    {
+      "code": "29687",
+      "cityState": "Taylors, SC"
+    },
+    {
+      "code": "29708",
+      "cityState": "Fort Mill, SC"
+    },
+    {
+      "code": "29710",
+      "cityState": "Clover, SC"
+    },
+    {
+      "code": "29730",
+      "cityState": "Rock Hill, SC"
+    },
+    {
+      "code": "29803",
+      "cityState": "Aiken, SC"
+    },
+    {
+      "code": "29841",
+      "cityState": "North Augusta, SC"
+    },
+    {
+      "code": "29910",
+      "cityState": "Bluffton, SC"
+    },
+    {
+      "code": "30004",
+      "cityState": "Alpharetta, GA"
+    },
+    {
+      "code": "30008",
+      "cityState": "Marietta, GA"
+    },
+    {
+      "code": "30012",
+      "cityState": "Conyers, GA"
+    },
+    {
+      "code": "30014",
+      "cityState": "Covington, GA"
+    },
+    {
+      "code": "30019",
+      "cityState": "Dacula, GA"
+    },
+    {
+      "code": "30024",
+      "cityState": "Suwanee, GA"
+    },
+    {
+      "code": "30030",
+      "cityState": "Decatur, GA"
+    },
+    {
+      "code": "30038",
+      "cityState": "Lithonia, GA"
+    },
+    {
+      "code": "30039",
+      "cityState": "Snellville, GA"
+    },
+    {
+      "code": "30040",
+      "cityState": "Cumming, GA"
+    },
+    {
+      "code": "30043",
+      "cityState": "Lawrenceville, GA"
+    },
+    {
+      "code": "30047",
+      "cityState": "Lilburn, GA"
+    },
+    {
+      "code": "30052",
+      "cityState": "Loganville, GA"
+    },
+    {
+      "code": "30075",
+      "cityState": "Roswell, GA"
+    },
+    {
+      "code": "30080",
+      "cityState": "Smyrna, GA"
+    },
+    {
+      "code": "30083",
+      "cityState": "Stone Mountain, GA"
+    },
+    {
+      "code": "30084",
+      "cityState": "Tucker, GA"
+    },
+    {
+      "code": "30092",
+      "cityState": "Norcross, GA"
+    },
+    {
+      "code": "30096",
+      "cityState": "Duluth, GA"
+    },
+    {
+      "code": "30101",
+      "cityState": "Acworth, GA"
+    },
+    {
+      "code": "30114",
+      "cityState": "Canton, GA"
+    },
+    {
+      "code": "30117",
+      "cityState": "Carrollton, GA"
+    },
+    {
+      "code": "30120",
+      "cityState": "Cartersville, GA"
+    },
+    {
+      "code": "30126",
+      "cityState": "Mableton, GA"
+    },
+    {
+      "code": "30127",
+      "cityState": "Powder Springs, GA"
+    },
+    {
+      "code": "30132",
+      "cityState": "Dallas, GA"
+    },
+    {
+      "code": "30134",
+      "cityState": "Douglasville, GA"
+    },
+    {
+      "code": "30144",
+      "cityState": "Kennesaw, GA"
+    },
+    {
+      "code": "30180",
+      "cityState": "Villa Rica, GA"
+    },
+    {
+      "code": "30188",
+      "cityState": "Woodstock, GA"
+    },
+    {
+      "code": "30213",
+      "cityState": "Fairburn, GA"
+    },
+    {
+      "code": "30223",
+      "cityState": "Griffin, GA"
+    },
+    {
+      "code": "30236",
+      "cityState": "Jonesboro, GA"
+    },
+    {
+      "code": "30240",
+      "cityState": "Lagrange, GA"
+    },
+    {
+      "code": "30252",
+      "cityState": "Mcdonough, GA"
+    },
+    {
+      "code": "30263",
+      "cityState": "Newnan, GA"
+    },
+    {
+      "code": "30269",
+      "cityState": "Peachtree City, GA"
+    },
+    {
+      "code": "30274",
+      "cityState": "Riverdale, GA"
+    },
+    {
+      "code": "30281",
+      "cityState": "Stockbridge, GA"
+    },
+    {
+      "code": "30294",
+      "cityState": "Ellenwood, GA"
+    },
+    {
+      "code": "30303",
+      "cityState": "Atlanta, GA"
+    },
+    {
+      "code": "30518",
+      "cityState": "Buford, GA"
+    },
+    {
+      "code": "30534",
+      "cityState": "Dawsonville, GA"
+    },
+    {
+      "code": "30542",
+      "cityState": "Flowery Branch, GA"
+    },
+    {
+      "code": "30605",
+      "cityState": "Athens, GA"
+    },
+    {
+      "code": "30680",
+      "cityState": "Winder, GA"
+    },
+    {
+      "code": "30701",
+      "cityState": "Calhoun, GA"
+    },
+    {
+      "code": "30705",
+      "cityState": "Chatsworth, GA"
+    },
+    {
+      "code": "30721",
+      "cityState": "Dalton, GA"
+    },
+    {
+      "code": "30736",
+      "cityState": "Ringgold, GA"
+    },
+    {
+      "code": "30741",
+      "cityState": "Rossville, GA"
+    },
+    {
+      "code": "30809",
+      "cityState": "Evans, GA"
+    },
+    {
+      "code": "30813",
+      "cityState": "Grovetown, GA"
+    },
+    {
+      "code": "30815",
+      "cityState": "Hephzibah, GA"
+    },
+    {
+      "code": "30906",
+      "cityState": "Augusta, GA"
+    },
+    {
+      "code": "31021",
+      "cityState": "Dublin, GA"
+    },
+    {
+      "code": "31061",
+      "cityState": "Milledgeville, GA"
+    },
+    {
+      "code": "31088",
+      "cityState": "Warner Robins, GA"
+    },
+    {
+      "code": "31204",
+      "cityState": "Macon, GA"
+    },
+    {
+      "code": "31313",
+      "cityState": "Hinesville, GA"
+    },
+    {
+      "code": "31404",
+      "cityState": "Savannah, GA"
+    },
+    {
+      "code": "31525",
+      "cityState": "Brunswick, GA"
+    },
+    {
+      "code": "31601",
+      "cityState": "Valdosta, GA"
+    },
+    {
+      "code": "31904",
+      "cityState": "Columbus, GA"
+    },
+    {
+      "code": "32003",
+      "cityState": "Fleming Island, FL"
+    },
+    {
+      "code": "32034",
+      "cityState": "Fernandina Beach, FL"
+    },
+    {
+      "code": "32043",
+      "cityState": "Green Cove Springs, FL"
+    },
+    {
+      "code": "32065",
+      "cityState": "Orange Park, FL"
+    },
+    {
+      "code": "32068",
+      "cityState": "Middleburg, FL"
+    },
+    {
+      "code": "32082",
+      "cityState": "Ponte Vedra Beach, FL"
+    },
+    {
+      "code": "32084",
+      "cityState": "Saint Augustine, FL"
+    },
+    {
+      "code": "32127",
+      "cityState": "Port Orange, FL"
+    },
+    {
+      "code": "32137",
+      "cityState": "Palm Coast, FL"
+    },
+    {
+      "code": "32159",
+      "cityState": "Lady Lake, FL"
+    },
+    {
+      "code": "32162",
+      "cityState": "The Villages, FL"
+    },
+    {
+      "code": "32174",
+      "cityState": "Ormond Beach, FL"
+    },
+    {
+      "code": "32250",
+      "cityState": "Jacksonville Beach, FL"
+    },
+    {
+      "code": "32259",
+      "cityState": "Saint Johns, FL"
+    },
+    {
+      "code": "32303",
+      "cityState": "Tallahassee, FL"
+    },
+    {
+      "code": "32404",
+      "cityState": "Panama City, FL"
+    },
+    {
+      "code": "32503",
+      "cityState": "Pensacola, FL"
+    },
+    {
+      "code": "32533",
+      "cityState": "Cantonment, FL"
+    },
+    {
+      "code": "32547",
+      "cityState": "Fort Walton Beach, FL"
+    },
+    {
+      "code": "32566",
+      "cityState": "Navarre, FL"
+    },
+    {
+      "code": "32578",
+      "cityState": "Niceville, FL"
+    },
+    {
+      "code": "32703",
+      "cityState": "Apopka, FL"
+    },
+    {
+      "code": "32707",
+      "cityState": "Casselberry, FL"
+    },
+    {
+      "code": "32708",
+      "cityState": "Winter Springs, FL"
+    },
+    {
+      "code": "32714",
+      "cityState": "Altamonte Springs, FL"
+    },
+    {
+      "code": "32720",
+      "cityState": "Deland, FL"
+    },
+    {
+      "code": "32725",
+      "cityState": "Deltona, FL"
+    },
+    {
+      "code": "32746",
+      "cityState": "Lake Mary, FL"
+    },
+    {
+      "code": "32765",
+      "cityState": "Oviedo, FL"
+    },
+    {
+      "code": "32779",
+      "cityState": "Longwood, FL"
+    },
+    {
+      "code": "32780",
+      "cityState": "Titusville, FL"
+    },
+    {
+      "code": "32792",
+      "cityState": "Winter Park, FL"
+    },
+    {
+      "code": "32806",
+      "cityState": "Orlando, FL"
+    },
+    {
+      "code": "32904",
+      "cityState": "Melbourne, FL"
+    },
+    {
+      "code": "32907",
+      "cityState": "Palm Bay, FL"
+    },
+    {
+      "code": "32927",
+      "cityState": "Cocoa, FL"
+    },
+    {
+      "code": "32937",
+      "cityState": "Satellite Beach, FL"
+    },
+    {
+      "code": "32955",
+      "cityState": "Rockledge, FL"
+    },
+    {
+      "code": "32958",
+      "cityState": "Sebastian, FL"
+    },
+    {
+      "code": "33009",
+      "cityState": "Hallandale, FL"
+    },
+    {
+      "code": "33010",
+      "cityState": "Hialeah, FL"
+    },
+    {
+      "code": "33020",
+      "cityState": "Hollywood, FL"
+    },
+    {
+      "code": "33028",
+      "cityState": "Pembroke Pines, FL"
+    },
+    {
+      "code": "33030",
+      "cityState": "Homestead, FL"
+    },
+    {
+      "code": "33040",
+      "cityState": "Key West, FL"
+    },
+    {
+      "code": "33054",
+      "cityState": "Opa Locka, FL"
+    },
+    {
+      "code": "33056",
+      "cityState": "Miami Gardens, FL"
+    },
+    {
+      "code": "33060",
+      "cityState": "Pompano Beach, FL"
+    },
+    {
+      "code": "33125",
+      "cityState": "Miami, FL"
+    },
+    {
+      "code": "33139",
+      "cityState": "Miami Beach, FL"
+    },
+    {
+      "code": "33160",
+      "cityState": "North Miami Beach, FL"
+    },
+    {
+      "code": "33308",
+      "cityState": "Fort Lauderdale, FL"
+    },
+    {
+      "code": "33404",
+      "cityState": "West Palm Beach, FL"
+    },
+    {
+      "code": "33410",
+      "cityState": "Palm Beach Gardens, FL"
+    },
+    {
+      "code": "33414",
+      "cityState": "Wellington, FL"
+    },
+    {
+      "code": "33428",
+      "cityState": "Boca Raton, FL"
+    },
+    {
+      "code": "33435",
+      "cityState": "Boynton Beach, FL"
+    },
+    {
+      "code": "33442",
+      "cityState": "Deerfield Beach, FL"
+    },
+    {
+      "code": "33445",
+      "cityState": "Delray Beach, FL"
+    },
+    {
+      "code": "33458",
+      "cityState": "Jupiter, FL"
+    },
+    {
+      "code": "33460",
+      "cityState": "Lake Worth, FL"
+    },
+    {
+      "code": "33470",
+      "cityState": "Loxahatchee, FL"
+    },
+    {
+      "code": "33510",
+      "cityState": "Brandon, FL"
+    },
+    {
+      "code": "33569",
+      "cityState": "Riverview, FL"
+    },
+    {
+      "code": "33594",
+      "cityState": "Valrico, FL"
+    },
+    {
+      "code": "33604",
+      "cityState": "Tampa, FL"
+    },
+    {
+      "code": "33702",
+      "cityState": "Saint Petersburg, FL"
+    },
+    {
+      "code": "33756",
+      "cityState": "Clearwater, FL"
+    },
+    {
+      "code": "33771",
+      "cityState": "Largo, FL"
+    },
+    {
+      "code": "33801",
+      "cityState": "Lakeland, FL"
+    },
+    {
+      "code": "33823",
+      "cityState": "Auburndale, FL"
+    },
+    {
+      "code": "33844",
+      "cityState": "Haines City, FL"
+    },
+    {
+      "code": "33880",
+      "cityState": "Winter Haven, FL"
+    },
+    {
+      "code": "33904",
+      "cityState": "Cape Coral, FL"
+    },
+    {
+      "code": "33905",
+      "cityState": "Fort Myers, FL"
+    },
+    {
+      "code": "33917",
+      "cityState": "North Fort Myers, FL"
+    },
+    {
+      "code": "33952",
+      "cityState": "Port Charlotte, FL"
+    },
+    {
+      "code": "34116",
+      "cityState": "Naples, FL"
+    },
+    {
+      "code": "34135",
+      "cityState": "Bonita Springs, FL"
+    },
+    {
+      "code": "34203",
+      "cityState": "Bradenton, FL"
+    },
+    {
+      "code": "34221",
+      "cityState": "Palmetto, FL"
+    },
+    {
+      "code": "34231",
+      "cityState": "Sarasota, FL"
+    },
+    {
+      "code": "34293",
+      "cityState": "Venice, FL"
+    },
+    {
+      "code": "34491",
+      "cityState": "Summerfield, FL"
+    },
+    {
+      "code": "34608",
+      "cityState": "Spring Hill, FL"
+    },
+    {
+      "code": "34639",
+      "cityState": "Land O Lakes, FL"
+    },
+    {
+      "code": "34653",
+      "cityState": "New Port Richey, FL"
+    },
+    {
+      "code": "34668",
+      "cityState": "Port Richey, FL"
+    },
+    {
+      "code": "34683",
+      "cityState": "Palm Harbor, FL"
+    },
+    {
+      "code": "34698",
+      "cityState": "Dunedin, FL"
+    },
+    {
+      "code": "34711",
+      "cityState": "Clermont, FL"
+    },
+    {
+      "code": "34741",
+      "cityState": "Kissimmee, FL"
+    },
+    {
+      "code": "34761",
+      "cityState": "Ocoee, FL"
+    },
+    {
+      "code": "34786",
+      "cityState": "Windermere, FL"
+    },
+    {
+      "code": "34787",
+      "cityState": "Winter Garden, FL"
+    },
+    {
+      "code": "34952",
+      "cityState": "Port Saint Lucie, FL"
+    },
+    {
+      "code": "34990",
+      "cityState": "Palm City, FL"
+    },
+    {
+      "code": "34997",
+      "cityState": "Stuart, FL"
+    },
+    {
+      "code": "35007",
+      "cityState": "Alabaster, AL"
+    },
+    {
+      "code": "35124",
+      "cityState": "Pelham, AL"
+    },
+    {
+      "code": "35173",
+      "cityState": "Trussville, AL"
+    },
+    {
+      "code": "35209",
+      "cityState": "Birmingham, AL"
+    },
+    {
+      "code": "35405",
+      "cityState": "Tuscaloosa, AL"
+    },
+    {
+      "code": "35640",
+      "cityState": "Hartselle, AL"
+    },
+    {
+      "code": "35758",
+      "cityState": "Madison, AL"
+    },
+    {
+      "code": "35803",
+      "cityState": "Huntsville, AL"
+    },
+    {
+      "code": "36067",
+      "cityState": "Prattville, AL"
+    },
+    {
+      "code": "36109",
+      "cityState": "Montgomery, AL"
+    },
+    {
+      "code": "36301",
+      "cityState": "Dothan, AL"
+    },
+    {
+      "code": "36330",
+      "cityState": "Enterprise, AL"
+    },
+    {
+      "code": "36526",
+      "cityState": "Daphne, AL"
+    },
+    {
+      "code": "36532",
+      "cityState": "Fairhope, AL"
+    },
+    {
+      "code": "36605",
+      "cityState": "Mobile, AL"
+    },
+    {
+      "code": "37013",
+      "cityState": "Antioch, TN"
+    },
+    {
+      "code": "37040",
+      "cityState": "Clarksville, TN"
+    },
+    {
+      "code": "37055",
+      "cityState": "Dickson, TN"
+    },
+    {
+      "code": "37066",
+      "cityState": "Gallatin, TN"
+    },
+    {
+      "code": "37072",
+      "cityState": "Goodlettsville, TN"
+    },
+    {
+      "code": "37076",
+      "cityState": "Hermitage, TN"
+    },
+    {
+      "code": "37086",
+      "cityState": "La Vergne, TN"
+    },
+    {
+      "code": "37110",
+      "cityState": "Mcminnville, TN"
+    },
+    {
+      "code": "37122",
+      "cityState": "Mount Juliet, TN"
+    },
+    {
+      "code": "37128",
+      "cityState": "Murfreesboro, TN"
+    },
+    {
+      "code": "37160",
+      "cityState": "Shelbyville, TN"
+    },
+    {
+      "code": "37205",
+      "cityState": "Nashville, TN"
+    },
+    {
+      "code": "37312",
+      "cityState": "Cleveland, TN"
+    },
+    {
+      "code": "37343",
+      "cityState": "Hixson, TN"
+    },
+    {
+      "code": "37363",
+      "cityState": "Ooltewah, TN"
+    },
+    {
+      "code": "37379",
+      "cityState": "Soddy Daisy, TN"
+    },
+    {
+      "code": "37388",
+      "cityState": "Tullahoma, TN"
+    },
+    {
+      "code": "37421",
+      "cityState": "Chattanooga, TN"
+    },
+    {
+      "code": "37601",
+      "cityState": "Johnson City, TN"
+    },
+    {
+      "code": "37643",
+      "cityState": "Elizabethton, TN"
+    },
+    {
+      "code": "37659",
+      "cityState": "Jonesborough, TN"
+    },
+    {
+      "code": "37660",
+      "cityState": "Kingsport, TN"
+    },
+    {
+      "code": "37803",
+      "cityState": "Maryville, TN"
+    },
+    {
+      "code": "37830",
+      "cityState": "Oak Ridge, TN"
+    },
+    {
+      "code": "37849",
+      "cityState": "Powell, TN"
+    },
+    {
+      "code": "37876",
+      "cityState": "Sevierville, TN"
+    },
+    {
+      "code": "37918",
+      "cityState": "Knoxville, TN"
+    },
+    {
+      "code": "38016",
+      "cityState": "Cordova, TN"
+    },
+    {
+      "code": "38017",
+      "cityState": "Collierville, TN"
+    },
+    {
+      "code": "38024",
+      "cityState": "Dyersburg, TN"
+    },
+    {
+      "code": "38053",
+      "cityState": "Millington, TN"
+    },
+    {
+      "code": "38106",
+      "cityState": "Memphis, TN"
+    },
+    {
+      "code": "38501",
+      "cityState": "Cookeville, TN"
+    },
+    {
+      "code": "38632",
+      "cityState": "Hernando, MS"
+    },
+    {
+      "code": "38637",
+      "cityState": "Horn Lake, MS"
+    },
+    {
+      "code": "38654",
+      "cityState": "Olive Branch, MS"
+    },
+    {
+      "code": "38655",
+      "cityState": "Oxford, MS"
+    },
+    {
+      "code": "38671",
+      "cityState": "Southaven, MS"
+    },
+    {
+      "code": "38801",
+      "cityState": "Tupelo, MS"
+    },
+    {
+      "code": "39120",
+      "cityState": "Natchez, MS"
+    },
+    {
+      "code": "39180",
+      "cityState": "Vicksburg, MS"
+    },
+    {
+      "code": "39208",
+      "cityState": "Pearl, MS"
+    },
+    {
+      "code": "39401",
+      "cityState": "Hattiesburg, MS"
+    },
+    {
+      "code": "39503",
+      "cityState": "Gulfport, MS"
+    },
+    {
+      "code": "39532",
+      "cityState": "Biloxi, MS"
+    },
+    {
+      "code": "39564",
+      "cityState": "Ocean Springs, MS"
+    },
+    {
+      "code": "39759",
+      "cityState": "Starkville, MS"
+    },
+    {
+      "code": "40004",
+      "cityState": "Bardstown, KY"
+    },
+    {
+      "code": "40165",
+      "cityState": "Shepherdsville, KY"
+    },
+    {
+      "code": "40207",
+      "cityState": "Louisville, KY"
+    },
+    {
+      "code": "40356",
+      "cityState": "Nicholasville, KY"
+    },
+    {
+      "code": "40601",
+      "cityState": "Frankfort, KY"
+    },
+    {
+      "code": "41017",
+      "cityState": "Ft Mitchell, KY"
+    },
+    {
+      "code": "41018",
+      "cityState": "Erlanger, KY"
+    },
+    {
+      "code": "41051",
+      "cityState": "Independence, KY"
+    },
+    {
+      "code": "42001",
+      "cityState": "Paducah, KY"
+    },
+    {
+      "code": "42101",
+      "cityState": "Bowling Green, KY"
+    },
+    {
+      "code": "42141",
+      "cityState": "Glasgow, KY"
+    },
+    {
+      "code": "42240",
+      "cityState": "Hopkinsville, KY"
+    },
+    {
+      "code": "42301",
+      "cityState": "Owensboro, KY"
+    },
+    {
+      "code": "42420",
+      "cityState": "Henderson, KY"
+    },
+    {
+      "code": "42431",
+      "cityState": "Madisonville, KY"
+    },
+    {
+      "code": "43015",
+      "cityState": "Delaware, OH"
+    },
+    {
+      "code": "43026",
+      "cityState": "Hilliard, OH"
+    },
+    {
+      "code": "43035",
+      "cityState": "Lewis Center, OH"
+    },
+    {
+      "code": "43040",
+      "cityState": "Marysville, OH"
+    },
+    {
+      "code": "43062",
+      "cityState": "Pataskala, OH"
+    },
+    {
+      "code": "43068",
+      "cityState": "Reynoldsburg, OH"
+    },
+    {
+      "code": "43081",
+      "cityState": "Westerville, OH"
+    },
+    {
+      "code": "43110",
+      "cityState": "Canal Winchester, OH"
+    },
+    {
+      "code": "43119",
+      "cityState": "Galloway, OH"
+    },
+    {
+      "code": "43123",
+      "cityState": "Grove City, OH"
+    },
+    {
+      "code": "43147",
+      "cityState": "Pickerington, OH"
+    },
+    {
+      "code": "43420",
+      "cityState": "Fremont, OH"
+    },
+    {
+      "code": "43512",
+      "cityState": "Defiance, OH"
+    },
+    {
+      "code": "43537",
+      "cityState": "Maumee, OH"
+    },
+    {
+      "code": "43551",
+      "cityState": "Perrysburg, OH"
+    },
+    {
+      "code": "43560",
+      "cityState": "Sylvania, OH"
+    },
+    {
+      "code": "43612",
+      "cityState": "Toledo, OH"
+    },
+    {
+      "code": "43701",
+      "cityState": "Zanesville, OH"
+    },
+    {
+      "code": "44004",
+      "cityState": "Ashtabula, OH"
+    },
+    {
+      "code": "44012",
+      "cityState": "Avon Lake, OH"
+    },
+    {
+      "code": "44024",
+      "cityState": "Chardon, OH"
+    },
+    {
+      "code": "44035",
+      "cityState": "Elyria, OH"
+    },
+    {
+      "code": "44039",
+      "cityState": "North Ridgeville, OH"
+    },
+    {
+      "code": "44052",
+      "cityState": "Lorain, OH"
+    },
+    {
+      "code": "44060",
+      "cityState": "Mentor, OH"
+    },
+    {
+      "code": "44070",
+      "cityState": "North Olmsted, OH"
+    },
+    {
+      "code": "44077",
+      "cityState": "Painesville, OH"
+    },
+    {
+      "code": "44094",
+      "cityState": "Willoughby, OH"
+    },
+    {
+      "code": "44095",
+      "cityState": "Eastlake, OH"
+    },
+    {
+      "code": "44122",
+      "cityState": "Beachwood, OH"
+    },
+    {
+      "code": "44133",
+      "cityState": "North Royalton, OH"
+    },
+    {
+      "code": "44136",
+      "cityState": "Strongsville, OH"
+    },
+    {
+      "code": "44139",
+      "cityState": "Solon, OH"
+    },
+    {
+      "code": "44145",
+      "cityState": "Westlake, OH"
+    },
+    {
+      "code": "44146",
+      "cityState": "Bedford, OH"
+    },
+    {
+      "code": "44203",
+      "cityState": "Barberton, OH"
+    },
+    {
+      "code": "44221",
+      "cityState": "Cuyahoga Falls, OH"
+    },
+    {
+      "code": "44224",
+      "cityState": "Stow, OH"
+    },
+    {
+      "code": "44240",
+      "cityState": "Kent, OH"
+    },
+    {
+      "code": "44256",
+      "cityState": "Medina, OH"
+    },
+    {
+      "code": "44266",
+      "cityState": "Ravenna, OH"
+    },
+    {
+      "code": "44281",
+      "cityState": "Wadsworth, OH"
+    },
+    {
+      "code": "44312",
+      "cityState": "Akron, OH"
+    },
+    {
+      "code": "44406",
+      "cityState": "Canfield, OH"
+    },
+    {
+      "code": "44512",
+      "cityState": "Youngstown, OH"
+    },
+    {
+      "code": "44601",
+      "cityState": "Alliance, OH"
+    },
+    {
+      "code": "44646",
+      "cityState": "Massillon, OH"
+    },
+    {
+      "code": "44663",
+      "cityState": "New Philadelphia, OH"
+    },
+    {
+      "code": "44691",
+      "cityState": "Wooster, OH"
+    },
+    {
+      "code": "44720",
+      "cityState": "North Canton, OH"
+    },
+    {
+      "code": "44805",
+      "cityState": "Ashland, OH"
+    },
+    {
+      "code": "44870",
+      "cityState": "Sandusky, OH"
+    },
+    {
+      "code": "44883",
+      "cityState": "Tiffin, OH"
+    },
+    {
+      "code": "45011",
+      "cityState": "Hamilton, OH"
+    },
+    {
+      "code": "45039",
+      "cityState": "Maineville, OH"
+    },
+    {
+      "code": "45040",
+      "cityState": "Mason, OH"
+    },
+    {
+      "code": "45066",
+      "cityState": "Springboro, OH"
+    },
+    {
+      "code": "45103",
+      "cityState": "Batavia, OH"
+    },
+    {
+      "code": "45140",
+      "cityState": "Loveland, OH"
+    },
+    {
+      "code": "45211",
+      "cityState": "Cincinnati, OH"
+    },
+    {
+      "code": "45324",
+      "cityState": "Fairborn, OH"
+    },
+    {
+      "code": "45342",
+      "cityState": "Miamisburg, OH"
+    },
+    {
+      "code": "45356",
+      "cityState": "Piqua, OH"
+    },
+    {
+      "code": "45365",
+      "cityState": "Sidney, OH"
+    },
+    {
+      "code": "45385",
+      "cityState": "Xenia, OH"
+    },
+    {
+      "code": "45420",
+      "cityState": "Dayton, OH"
+    },
+    {
+      "code": "45601",
+      "cityState": "Chillicothe, OH"
+    },
+    {
+      "code": "45840",
+      "cityState": "Findlay, OH"
+    },
+    {
+      "code": "46037",
+      "cityState": "Fishers, IN"
+    },
+    {
+      "code": "46060",
+      "cityState": "Noblesville, IN"
+    },
+    {
+      "code": "46077",
+      "cityState": "Zionsville, IN"
+    },
+    {
+      "code": "46112",
+      "cityState": "Brownsburg, IN"
+    },
+    {
+      "code": "46123",
+      "cityState": "Avon, IN"
+    },
+    {
+      "code": "46140",
+      "cityState": "Greenfield, IN"
+    },
+    {
+      "code": "46201",
+      "cityState": "Indianapolis, IN"
+    },
+    {
+      "code": "46304",
+      "cityState": "Chesterton, IN"
+    },
+    {
+      "code": "46307",
+      "cityState": "Crown Point, IN"
+    },
+    {
+      "code": "46321",
+      "cityState": "Munster, IN"
+    },
+    {
+      "code": "46322",
+      "cityState": "Highland, IN"
+    },
+    {
+      "code": "46342",
+      "cityState": "Hobart, IN"
+    },
+    {
+      "code": "46350",
+      "cityState": "La Porte, IN"
+    },
+    {
+      "code": "46360",
+      "cityState": "Michigan City, IN"
+    },
+    {
+      "code": "46368",
+      "cityState": "Portage, IN"
+    },
+    {
+      "code": "46375",
+      "cityState": "Schererville, IN"
+    },
+    {
+      "code": "46383",
+      "cityState": "Valparaiso, IN"
+    },
+    {
+      "code": "46410",
+      "cityState": "Merrillville, IN"
+    },
+    {
+      "code": "46514",
+      "cityState": "Elkhart, IN"
+    },
+    {
+      "code": "46526",
+      "cityState": "Goshen, IN"
+    },
+    {
+      "code": "46530",
+      "cityState": "Granger, IN"
+    },
+    {
+      "code": "46544",
+      "cityState": "Mishawaka, IN"
+    },
+    {
+      "code": "46614",
+      "cityState": "South Bend, IN"
+    },
+    {
+      "code": "46804",
+      "cityState": "Fort Wayne, IN"
+    },
+    {
+      "code": "46901",
+      "cityState": "Kokomo, IN"
+    },
+    {
+      "code": "46947",
+      "cityState": "Logansport, IN"
+    },
+    {
+      "code": "47130",
+      "cityState": "Jeffersonville, IN"
+    },
+    {
+      "code": "47150",
+      "cityState": "New Albany, IN"
+    },
+    {
+      "code": "47274",
+      "cityState": "Seymour, IN"
+    },
+    {
+      "code": "47302",
+      "cityState": "Muncie, IN"
+    },
+    {
+      "code": "47401",
+      "cityState": "Bloomington, IN"
+    },
+    {
+      "code": "47711",
+      "cityState": "Evansville, IN"
+    },
+    {
+      "code": "47802",
+      "cityState": "Terre Haute, IN"
+    },
+    {
+      "code": "47905",
+      "cityState": "Lafayette, IN"
+    },
+    {
+      "code": "47906",
+      "cityState": "West Lafayette, IN"
+    },
+    {
+      "code": "47933",
+      "cityState": "Crawfordsville, IN"
+    },
+    {
+      "code": "48021",
+      "cityState": "Eastpointe, MI"
+    },
+    {
+      "code": "48035",
+      "cityState": "Clinton Township, MI"
+    },
+    {
+      "code": "48042",
+      "cityState": "Macomb, MI"
+    },
+    {
+      "code": "48045",
+      "cityState": "Harrison Township, MI"
+    },
+    {
+      "code": "48047",
+      "cityState": "New Baltimore, MI"
+    },
+    {
+      "code": "48060",
+      "cityState": "Port Huron, MI"
+    },
+    {
+      "code": "48066",
+      "cityState": "Roseville, MI"
+    },
+    {
+      "code": "48067",
+      "cityState": "Royal Oak, MI"
+    },
+    {
+      "code": "48071",
+      "cityState": "Madison Heights, MI"
+    },
+    {
+      "code": "48076",
+      "cityState": "Southfield, MI"
+    },
+    {
+      "code": "48089",
+      "cityState": "Warren, MI"
+    },
+    {
+      "code": "48101",
+      "cityState": "Allen Park, MI"
+    },
+    {
+      "code": "48103",
+      "cityState": "Ann Arbor, MI"
+    },
+    {
+      "code": "48124",
+      "cityState": "Dearborn, MI"
+    },
+    {
+      "code": "48127",
+      "cityState": "Dearborn Heights, MI"
+    },
+    {
+      "code": "48146",
+      "cityState": "Lincoln Park, MI"
+    },
+    {
+      "code": "48150",
+      "cityState": "Livonia, MI"
+    },
+    {
+      "code": "48167",
+      "cityState": "Northville, MI"
+    },
+    {
+      "code": "48174",
+      "cityState": "Romulus, MI"
+    },
+    {
+      "code": "48178",
+      "cityState": "South Lyon, MI"
+    },
+    {
+      "code": "48180",
+      "cityState": "Taylor, MI"
+    },
+    {
+      "code": "48185",
+      "cityState": "Westland, MI"
+    },
+    {
+      "code": "48192",
+      "cityState": "Wyandotte, MI"
+    },
+    {
+      "code": "48195",
+      "cityState": "Southgate, MI"
+    },
+    {
+      "code": "48197",
+      "cityState": "Ypsilanti, MI"
+    },
+    {
+      "code": "48205",
+      "cityState": "Detroit, MI"
+    },
+    {
+      "code": "48212",
+      "cityState": "Hamtramck, MI"
+    },
+    {
+      "code": "48236",
+      "cityState": "Grosse Pointe, MI"
+    },
+    {
+      "code": "48237",
+      "cityState": "Oak Park, MI"
+    },
+    {
+      "code": "48239",
+      "cityState": "Redford, MI"
+    },
+    {
+      "code": "48310",
+      "cityState": "Sterling Heights, MI"
+    },
+    {
+      "code": "48322",
+      "cityState": "West Bloomfield, MI"
+    },
+    {
+      "code": "48329",
+      "cityState": "Waterford, MI"
+    },
+    {
+      "code": "48331",
+      "cityState": "Farmington, MI"
+    },
+    {
+      "code": "48348",
+      "cityState": "Clarkston, MI"
+    },
+    {
+      "code": "48423",
+      "cityState": "Davison, MI"
+    },
+    {
+      "code": "48430",
+      "cityState": "Fenton, MI"
+    },
+    {
+      "code": "48439",
+      "cityState": "Grand Blanc, MI"
+    },
+    {
+      "code": "48446",
+      "cityState": "Lapeer, MI"
+    },
+    {
+      "code": "48504",
+      "cityState": "Flint, MI"
+    },
+    {
+      "code": "48601",
+      "cityState": "Saginaw, MI"
+    },
+    {
+      "code": "48640",
+      "cityState": "Midland, MI"
+    },
+    {
+      "code": "48706",
+      "cityState": "Bay City, MI"
+    },
+    {
+      "code": "48823",
+      "cityState": "East Lansing, MI"
+    },
+    {
+      "code": "48867",
+      "cityState": "Owosso, MI"
+    },
+    {
+      "code": "48910",
+      "cityState": "Lansing, MI"
+    },
+    {
+      "code": "49009",
+      "cityState": "Kalamazoo, MI"
+    },
+    {
+      "code": "49015",
+      "cityState": "Battle Creek, MI"
+    },
+    {
+      "code": "49022",
+      "cityState": "Benton Harbor, MI"
+    },
+    {
+      "code": "49085",
+      "cityState": "Saint Joseph, MI"
+    },
+    {
+      "code": "49120",
+      "cityState": "Niles, MI"
+    },
+    {
+      "code": "49221",
+      "cityState": "Adrian, MI"
+    },
+    {
+      "code": "49341",
+      "cityState": "Rockford, MI"
+    },
+    {
+      "code": "49417",
+      "cityState": "Grand Haven, MI"
+    },
+    {
+      "code": "49418",
+      "cityState": "Grandville, MI"
+    },
+    {
+      "code": "49423",
+      "cityState": "Holland, MI"
+    },
+    {
+      "code": "49426",
+      "cityState": "Hudsonville, MI"
+    },
+    {
+      "code": "49428",
+      "cityState": "Jenison, MI"
+    },
+    {
+      "code": "49441",
+      "cityState": "Muskegon, MI"
+    },
+    {
+      "code": "49464",
+      "cityState": "Zeeland, MI"
+    },
+    {
+      "code": "49503",
+      "cityState": "Grand Rapids, MI"
+    },
+    {
+      "code": "49509",
+      "cityState": "Wyoming, MI"
+    },
+    {
+      "code": "49684",
+      "cityState": "Traverse City, MI"
+    },
+    {
+      "code": "49855",
+      "cityState": "Marquette, MI"
+    },
+    {
+      "code": "50010",
+      "cityState": "Ames, IA"
+    },
+    {
+      "code": "50023",
+      "cityState": "Ankeny, IA"
+    },
+    {
+      "code": "50158",
+      "cityState": "Marshalltown, IA"
+    },
+    {
+      "code": "50265",
+      "cityState": "West Des Moines, IA"
+    },
+    {
+      "code": "50310",
+      "cityState": "Des Moines, IA"
+    },
+    {
+      "code": "50322",
+      "cityState": "Urbandale, IA"
+    },
+    {
+      "code": "50401",
+      "cityState": "Mason City, IA"
+    },
+    {
+      "code": "50501",
+      "cityState": "Fort Dodge, IA"
+    },
+    {
+      "code": "50613",
+      "cityState": "Cedar Falls, IA"
+    },
+    {
+      "code": "50701",
+      "cityState": "Waterloo, IA"
+    },
+    {
+      "code": "51106",
+      "cityState": "Sioux City, IA"
+    },
+    {
+      "code": "51501",
+      "cityState": "Council Bluffs, IA"
+    },
+    {
+      "code": "52001",
+      "cityState": "Dubuque, IA"
+    },
+    {
+      "code": "52240",
+      "cityState": "Iowa City, IA"
+    },
+    {
+      "code": "52402",
+      "cityState": "Cedar Rapids, IA"
+    },
+    {
+      "code": "52501",
+      "cityState": "Ottumwa, IA"
+    },
+    {
+      "code": "52722",
+      "cityState": "Bettendorf, IA"
+    },
+    {
+      "code": "52761",
+      "cityState": "Muscatine, IA"
+    },
+    {
+      "code": "52804",
+      "cityState": "Davenport, IA"
+    },
+    {
+      "code": "53045",
+      "cityState": "Brookfield, WI"
+    },
+    {
+      "code": "53051",
+      "cityState": "Menomonee Falls, WI"
+    },
+    {
+      "code": "53066",
+      "cityState": "Oconomowoc, WI"
+    },
+    {
+      "code": "53072",
+      "cityState": "Pewaukee, WI"
+    },
+    {
+      "code": "53081",
+      "cityState": "Sheboygan, WI"
+    },
+    {
+      "code": "53095",
+      "cityState": "West Bend, WI"
+    },
+    {
+      "code": "53140",
+      "cityState": "Kenosha, WI"
+    },
+    {
+      "code": "53150",
+      "cityState": "Muskego, WI"
+    },
+    {
+      "code": "53151",
+      "cityState": "New Berlin, WI"
+    },
+    {
+      "code": "53154",
+      "cityState": "Oak Creek, WI"
+    },
+    {
+      "code": "53186",
+      "cityState": "Waukesha, WI"
+    },
+    {
+      "code": "53204",
+      "cityState": "Milwaukee, WI"
+    },
+    {
+      "code": "53402",
+      "cityState": "Racine, WI"
+    },
+    {
+      "code": "53511",
+      "cityState": "Beloit, WI"
+    },
+    {
+      "code": "53546",
+      "cityState": "Janesville, WI"
+    },
+    {
+      "code": "53562",
+      "cityState": "Middleton, WI"
+    },
+    {
+      "code": "53590",
+      "cityState": "Sun Prairie, WI"
+    },
+    {
+      "code": "54115",
+      "cityState": "De Pere, WI"
+    },
+    {
+      "code": "54130",
+      "cityState": "Kaukauna, WI"
+    },
+    {
+      "code": "54220",
+      "cityState": "Manitowoc, WI"
+    },
+    {
+      "code": "54302",
+      "cityState": "Green Bay, WI"
+    },
+    {
+      "code": "54401",
+      "cityState": "Wausau, WI"
+    },
+    {
+      "code": "54449",
+      "cityState": "Marshfield, WI"
+    },
+    {
+      "code": "54481",
+      "cityState": "Stevens Point, WI"
+    },
+    {
+      "code": "54494",
+      "cityState": "Wisconsin Rapids, WI"
+    },
+    {
+      "code": "54601",
+      "cityState": "La Crosse, WI"
+    },
+    {
+      "code": "54650",
+      "cityState": "Onalaska, WI"
+    },
+    {
+      "code": "54701",
+      "cityState": "Eau Claire, WI"
+    },
+    {
+      "code": "54729",
+      "cityState": "Chippewa Falls, WI"
+    },
+    {
+      "code": "54880",
+      "cityState": "Superior, WI"
+    },
+    {
+      "code": "54901",
+      "cityState": "Oshkosh, WI"
+    },
+    {
+      "code": "54911",
+      "cityState": "Appleton, WI"
+    },
+    {
+      "code": "54935",
+      "cityState": "Fond Du Lac, WI"
+    },
+    {
+      "code": "54952",
+      "cityState": "Menasha, WI"
+    },
+    {
+      "code": "54956",
+      "cityState": "Neenah, WI"
+    },
+    {
+      "code": "55014",
+      "cityState": "Circle Pines, MN"
+    },
+    {
+      "code": "55016",
+      "cityState": "Cottage Grove, MN"
+    },
+    {
+      "code": "55021",
+      "cityState": "Faribault, MN"
+    },
+    {
+      "code": "55033",
+      "cityState": "Hastings, MN"
+    },
+    {
+      "code": "55044",
+      "cityState": "Lakeville, MN"
+    },
+    {
+      "code": "55060",
+      "cityState": "Owatonna, MN"
+    },
+    {
+      "code": "55068",
+      "cityState": "Rosemount, MN"
+    },
+    {
+      "code": "55082",
+      "cityState": "Stillwater, MN"
+    },
+    {
+      "code": "55104",
+      "cityState": "Saint Paul, MN"
+    },
+    {
+      "code": "55303",
+      "cityState": "Anoka, MN"
+    },
+    {
+      "code": "55311",
+      "cityState": "Osseo, MN"
+    },
+    {
+      "code": "55316",
+      "cityState": "Champlin, MN"
+    },
+    {
+      "code": "55318",
+      "cityState": "Chaska, MN"
+    },
+    {
+      "code": "55330",
+      "cityState": "Elk River, MN"
+    },
+    {
+      "code": "55337",
+      "cityState": "Burnsville, MN"
+    },
+    {
+      "code": "55343",
+      "cityState": "Hopkins, MN"
+    },
+    {
+      "code": "55347",
+      "cityState": "Eden Prairie, MN"
+    },
+    {
+      "code": "55372",
+      "cityState": "Prior Lake, MN"
+    },
+    {
+      "code": "55378",
+      "cityState": "Savage, MN"
+    },
+    {
+      "code": "55379",
+      "cityState": "Shakopee, MN"
+    },
+    {
+      "code": "55406",
+      "cityState": "Minneapolis, MN"
+    },
+    {
+      "code": "55912",
+      "cityState": "Austin, MN"
+    },
+    {
+      "code": "55987",
+      "cityState": "Winona, MN"
+    },
+    {
+      "code": "56001",
+      "cityState": "Mankato, MN"
+    },
+    {
+      "code": "56301",
+      "cityState": "Saint Cloud, MN"
+    },
+    {
+      "code": "56401",
+      "cityState": "Brainerd, MN"
+    },
+    {
+      "code": "56560",
+      "cityState": "Moorhead, MN"
+    },
+    {
+      "code": "56601",
+      "cityState": "Bemidji, MN"
+    },
+    {
+      "code": "57103",
+      "cityState": "Sioux Falls, SD"
+    },
+    {
+      "code": "57401",
+      "cityState": "Aberdeen, SD"
+    },
+    {
+      "code": "57701",
+      "cityState": "Rapid City, SD"
+    },
+    {
+      "code": "58078",
+      "cityState": "West Fargo, ND"
+    },
+    {
+      "code": "58102",
+      "cityState": "Fargo, ND"
+    },
+    {
+      "code": "58201",
+      "cityState": "Grand Forks, ND"
+    },
+    {
+      "code": "58501",
+      "cityState": "Bismarck, ND"
+    },
+    {
+      "code": "58701",
+      "cityState": "Minot, ND"
+    },
+    {
+      "code": "59101",
+      "cityState": "Billings, MT"
+    },
+    {
+      "code": "59404",
+      "cityState": "Great Falls, MT"
+    },
+    {
+      "code": "59601",
+      "cityState": "Helena, MT"
+    },
+    {
+      "code": "59701",
+      "cityState": "Butte, MT"
+    },
+    {
+      "code": "59715",
+      "cityState": "Bozeman, MT"
+    },
+    {
+      "code": "59801",
+      "cityState": "Missoula, MT"
+    },
+    {
+      "code": "59901",
+      "cityState": "Kalispell, MT"
+    },
+    {
+      "code": "60004",
+      "cityState": "Arlington Heights, IL"
+    },
+    {
+      "code": "60007",
+      "cityState": "Elk Grove Village, IL"
+    },
+    {
+      "code": "60008",
+      "cityState": "Rolling Meadows, IL"
+    },
+    {
+      "code": "60010",
+      "cityState": "Barrington, IL"
+    },
+    {
+      "code": "60014",
+      "cityState": "Crystal Lake, IL"
+    },
+    {
+      "code": "60015",
+      "cityState": "Deerfield, IL"
+    },
+    {
+      "code": "60016",
+      "cityState": "Des Plaines, IL"
+    },
+    {
+      "code": "60025",
+      "cityState": "Glenview, IL"
+    },
+    {
+      "code": "60030",
+      "cityState": "Grayslake, IL"
+    },
+    {
+      "code": "60031",
+      "cityState": "Gurnee, IL"
+    },
+    {
+      "code": "60035",
+      "cityState": "Highland Park, IL"
+    },
+    {
+      "code": "60046",
+      "cityState": "Lake Villa, IL"
+    },
+    {
+      "code": "60047",
+      "cityState": "Lake Zurich, IL"
+    },
+    {
+      "code": "60048",
+      "cityState": "Libertyville, IL"
+    },
+    {
+      "code": "60050",
+      "cityState": "Mchenry, IL"
+    },
+    {
+      "code": "60053",
+      "cityState": "Morton Grove, IL"
+    },
+    {
+      "code": "60056",
+      "cityState": "Mount Prospect, IL"
+    },
+    {
+      "code": "60060",
+      "cityState": "Mundelein, IL"
+    },
+    {
+      "code": "60061",
+      "cityState": "Vernon Hills, IL"
+    },
+    {
+      "code": "60062",
+      "cityState": "Northbrook, IL"
+    },
+    {
+      "code": "60067",
+      "cityState": "Palatine, IL"
+    },
+    {
+      "code": "60068",
+      "cityState": "Park Ridge, IL"
+    },
+    {
+      "code": "60073",
+      "cityState": "Round Lake, IL"
+    },
+    {
+      "code": "60076",
+      "cityState": "Skokie, IL"
+    },
+    {
+      "code": "60085",
+      "cityState": "Waukegan, IL"
+    },
+    {
+      "code": "60089",
+      "cityState": "Buffalo Grove, IL"
+    },
+    {
+      "code": "60091",
+      "cityState": "Wilmette, IL"
+    },
+    {
+      "code": "60099",
+      "cityState": "Zion, IL"
+    },
+    {
+      "code": "60101",
+      "cityState": "Addison, IL"
+    },
+    {
+      "code": "60102",
+      "cityState": "Algonquin, IL"
+    },
+    {
+      "code": "60103",
+      "cityState": "Bartlett, IL"
+    },
+    {
+      "code": "60107",
+      "cityState": "Streamwood, IL"
+    },
+    {
+      "code": "60110",
+      "cityState": "Carpentersville, IL"
+    },
+    {
+      "code": "60115",
+      "cityState": "Dekalb, IL"
+    },
+    {
+      "code": "60120",
+      "cityState": "Elgin, IL"
+    },
+    {
+      "code": "60133",
+      "cityState": "Hanover Park, IL"
+    },
+    {
+      "code": "60134",
+      "cityState": "Geneva, IL"
+    },
+    {
+      "code": "60137",
+      "cityState": "Glen Ellyn, IL"
+    },
+    {
+      "code": "60139",
+      "cityState": "Glendale Heights, IL"
+    },
+    {
+      "code": "60142",
+      "cityState": "Huntley, IL"
+    },
+    {
+      "code": "60148",
+      "cityState": "Lombard, IL"
+    },
+    {
+      "code": "60156",
+      "cityState": "Lake In The Hills, IL"
+    },
+    {
+      "code": "60169",
+      "cityState": "Hoffman Estates, IL"
+    },
+    {
+      "code": "60172",
+      "cityState": "Roselle, IL"
+    },
+    {
+      "code": "60174",
+      "cityState": "Saint Charles, IL"
+    },
+    {
+      "code": "60181",
+      "cityState": "Villa Park, IL"
+    },
+    {
+      "code": "60185",
+      "cityState": "West Chicago, IL"
+    },
+    {
+      "code": "60187",
+      "cityState": "Wheaton, IL"
+    },
+    {
+      "code": "60188",
+      "cityState": "Carol Stream, IL"
+    },
+    {
+      "code": "60193",
+      "cityState": "Schaumburg, IL"
+    },
+    {
+      "code": "60201",
+      "cityState": "Evanston, IL"
+    },
+    {
+      "code": "60402",
+      "cityState": "Berwyn, IL"
+    },
+    {
+      "code": "60409",
+      "cityState": "Calumet City, IL"
+    },
+    {
+      "code": "60411",
+      "cityState": "Chicago Heights, IL"
+    },
+    {
+      "code": "60426",
+      "cityState": "Harvey, IL"
+    },
+    {
+      "code": "60435",
+      "cityState": "Joliet, IL"
+    },
+    {
+      "code": "60439",
+      "cityState": "Lemont, IL"
+    },
+    {
+      "code": "60440",
+      "cityState": "Bolingbrook, IL"
+    },
+    {
+      "code": "60446",
+      "cityState": "Romeoville, IL"
+    },
+    {
+      "code": "60448",
+      "cityState": "Mokena, IL"
+    },
+    {
+      "code": "60451",
+      "cityState": "New Lenox, IL"
+    },
+    {
+      "code": "60452",
+      "cityState": "Oak Forest, IL"
+    },
+    {
+      "code": "60453",
+      "cityState": "Oak Lawn, IL"
+    },
+    {
+      "code": "60459",
+      "cityState": "Burbank, IL"
+    },
+    {
+      "code": "60462",
+      "cityState": "Orland Park, IL"
+    },
+    {
+      "code": "60466",
+      "cityState": "Park Forest, IL"
+    },
+    {
+      "code": "60515",
+      "cityState": "Downers Grove, IL"
+    },
+    {
+      "code": "60559",
+      "cityState": "Westmont, IL"
+    },
+    {
+      "code": "60621",
+      "cityState": "Chicago, IL"
+    },
+    {
+      "code": "61350",
+      "cityState": "Ottawa, IL"
+    },
+    {
+      "code": "61604",
+      "cityState": "Peoria, IL"
+    },
+    {
+      "code": "61821",
+      "cityState": "Champaign, IL"
+    },
+    {
+      "code": "63109",
+      "cityState": "Saint Louis, MO"
+    },
+    {
+      "code": "64151",
+      "cityState": "Kansas City, MO"
+    },
+    {
+      "code": "65401",
+      "cityState": "Rolla, MO"
+    },
+    {
+      "code": "66801",
+      "cityState": "Emporia, KS"
+    },
+    {
+      "code": "67037",
+      "cityState": "Derby, KS"
+    },
+    {
+      "code": "68107",
+      "cityState": "Omaha, NE"
+    },
+    {
+      "code": "68506",
+      "cityState": "Lincoln, NE"
+    },
+    {
+      "code": "68801",
+      "cityState": "Grand Island, NE"
+    },
+    {
+      "code": "70001",
+      "cityState": "Metairie, LA"
+    },
+    {
+      "code": "70115",
+      "cityState": "New Orleans, LA"
+    },
+    {
+      "code": "70301",
+      "cityState": "Thibodaux, LA"
+    },
+    {
+      "code": "70605",
+      "cityState": "Lake Charles, LA"
+    },
+    {
+      "code": "70663",
+      "cityState": "Sulphur, LA"
+    },
+    {
+      "code": "70806",
+      "cityState": "Baton Rouge, LA"
+    },
+    {
+      "code": "71730",
+      "cityState": "El Dorado, AR"
+    },
+    {
+      "code": "72209",
+      "cityState": "Little Rock, AR"
+    },
+    {
+      "code": "73072",
+      "cityState": "Norman, OK"
+    },
+    {
+      "code": "73112",
+      "cityState": "Oklahoma City, OK"
+    },
+    {
+      "code": "74403",
+      "cityState": "Muskogee, OK"
+    },
+    {
+      "code": "74820",
+      "cityState": "Ada, OK"
+    },
+    {
+      "code": "75043",
+      "cityState": "Garland, TX"
+    },
+    {
+      "code": "75080",
+      "cityState": "Richardson, TX"
+    },
+    {
+      "code": "75088",
+      "cityState": "Rowlett, TX"
+    },
+    {
+      "code": "75115",
+      "cityState": "Desoto, TX"
+    },
+    {
+      "code": "75126",
+      "cityState": "Forney, TX"
+    },
+    {
+      "code": "75604",
+      "cityState": "Longview, TX"
+    },
+    {
+      "code": "76039",
+      "cityState": "Euless, TX"
+    },
+    {
+      "code": "76110",
+      "cityState": "Fort Worth, TX"
+    },
+    {
+      "code": "76522",
+      "cityState": "Copperas Cove, TX"
+    },
+    {
+      "code": "76901",
+      "cityState": "San Angelo, TX"
+    },
+    {
+      "code": "77016",
+      "cityState": "Houston, TX"
+    },
+    {
+      "code": "77478",
+      "cityState": "Sugar Land, TX"
+    },
+    {
+      "code": "77566",
+      "cityState": "Lake Jackson, TX"
+    },
+    {
+      "code": "77904",
+      "cityState": "Victoria, TX"
+    },
+    {
+      "code": "78023",
+      "cityState": "Helotes, TX"
+    },
+    {
+      "code": "78213",
+      "cityState": "San Antonio, TX"
+    },
+    {
+      "code": "78418",
+      "cityState": "Corpus Christi, TX"
+    },
+    {
+      "code": "78501",
+      "cityState": "Mcallen, TX"
+    },
+    {
+      "code": "78552",
+      "cityState": "Harlingen, TX"
+    },
+    {
+      "code": "79106",
+      "cityState": "Amarillo, TX"
+    },
+    {
+      "code": "79930",
+      "cityState": "El Paso, TX"
+    },
+    {
+      "code": "80003",
+      "cityState": "Arvada, CO"
+    },
+    {
+      "code": "80123",
+      "cityState": "Littleton, CO"
+    },
+    {
+      "code": "80241",
+      "cityState": "Thornton, CO"
+    },
+    {
+      "code": "80911",
+      "cityState": "Colorado Springs, CO"
+    },
+    {
+      "code": "81001",
+      "cityState": "Pueblo, CO"
+    },
+    {
+      "code": "83301",
+      "cityState": "Twin Falls, ID"
+    },
+    {
+      "code": "83651",
+      "cityState": "Nampa, ID"
+    },
+    {
+      "code": "84010",
+      "cityState": "Bountiful, UT"
+    },
+    {
+      "code": "84067",
+      "cityState": "Roy, UT"
+    },
+    {
+      "code": "84119",
+      "cityState": "Salt Lake City, UT"
+    },
+    {
+      "code": "84404",
+      "cityState": "Ogden, UT"
+    },
+    {
+      "code": "85021",
+      "cityState": "Phoenix, AZ"
+    },
+    {
+      "code": "85203",
+      "cityState": "Mesa, AZ"
+    },
+    {
+      "code": "85224",
+      "cityState": "Chandler, AZ"
+    },
+    {
+      "code": "85302",
+      "cityState": "Glendale, AZ"
+    },
+    {
+      "code": "85326",
+      "cityState": "Buckeye, AZ"
+    },
+    {
+      "code": "85351",
+      "cityState": "Sun City, AZ"
+    },
+    {
+      "code": "85365",
+      "cityState": "Yuma, AZ"
+    },
+    {
+      "code": "85718",
+      "cityState": "Tucson, AZ"
+    },
+    {
+      "code": "89523",
+      "cityState": "Reno, NV"
+    },
+    {
+      "code": "90008",
+      "cityState": "Los Angeles, CA"
+    },
+    {
+      "code": "90260",
+      "cityState": "Lawndale, CA"
+    },
+    {
+      "code": "90274",
+      "cityState": "Palos Verdes Peninsula, CA"
+    },
+    {
+      "code": "90278",
+      "cityState": "Redondo Beach, CA"
+    },
+    {
+      "code": "90403",
+      "cityState": "Santa Monica, CA"
+    },
+    {
+      "code": "90505",
+      "cityState": "Torrance, CA"
+    },
+    {
+      "code": "91010",
+      "cityState": "Duarte, CA"
+    },
+    {
+      "code": "91316",
+      "cityState": "Encino, CA"
+    },
+    {
+      "code": "91387",
+      "cityState": "Canyon Country, CA"
+    },
+    {
+      "code": "91733",
+      "cityState": "South El Monte, CA"
+    },
+    {
+      "code": "91740",
+      "cityState": "Glendora, CA"
+    },
+    {
+      "code": "91762",
+      "cityState": "Ontario, CA"
+    },
+    {
+      "code": "91768",
+      "cityState": "Pomona, CA"
+    },
+    {
+      "code": "91784",
+      "cityState": "Upland, CA"
+    },
+    {
+      "code": "92083",
+      "cityState": "Vista, CA"
+    },
+    {
+      "code": "92111",
+      "cityState": "San Diego, CA"
+    },
+    {
+      "code": "92220",
+      "cityState": "Banning, CA"
+    },
+    {
+      "code": "92236",
+      "cityState": "Coachella, CA"
+    },
+    {
+      "code": "92307",
+      "cityState": "Apple Valley, CA"
+    },
+    {
+      "code": "92806",
+      "cityState": "Anaheim, CA"
+    },
+    {
+      "code": "92831",
+      "cityState": "Fullerton, CA"
+    },
+    {
+      "code": "93035",
+      "cityState": "Oxnard, CA"
+    },
+    {
+      "code": "93306",
+      "cityState": "Bakersfield, CA"
+    },
+    {
+      "code": "93555",
+      "cityState": "Ridgecrest, CA"
+    },
+    {
+      "code": "93635",
+      "cityState": "Los Banos, CA"
+    },
+    {
+      "code": "93706",
+      "cityState": "Fresno, CA"
+    },
+    {
+      "code": "94043",
+      "cityState": "Mountain View, CA"
+    },
+    {
+      "code": "94070",
+      "cityState": "San Carlos, CA"
+    },
+    {
+      "code": "94566",
+      "cityState": "Pleasanton, CA"
+    },
+    {
+      "code": "94580",
+      "cityState": "San Lorenzo, CA"
+    },
+    {
+      "code": "94603",
+      "cityState": "Oakland, CA"
+    },
+    {
+      "code": "94806",
+      "cityState": "San Pablo, CA"
+    },
+    {
+      "code": "95008",
+      "cityState": "Campbell, CA"
+    },
+    {
+      "code": "95050",
+      "cityState": "Santa Clara, CA"
+    },
+    {
+      "code": "95060",
+      "cityState": "Santa Cruz, CA"
+    },
+    {
+      "code": "95127",
+      "cityState": "San Jose, CA"
+    },
+    {
+      "code": "95301",
+      "cityState": "Atwater, CA"
+    },
+    {
+      "code": "95677",
+      "cityState": "Rocklin, CA"
+    },
+    {
+      "code": "95820",
+      "cityState": "Sacramento, CA"
+    },
+    {
+      "code": "95993",
+      "cityState": "Yuba City, CA"
+    },
+    {
+      "code": "96815",
+      "cityState": "Honolulu, HI"
+    },
+    {
+      "code": "97062",
+      "cityState": "Tualatin, OR"
+    },
+    {
+      "code": "97124",
+      "cityState": "Hillsboro, OR"
+    },
+    {
+      "code": "97402",
+      "cityState": "Eugene, OR"
+    },
+    {
+      "code": "97603",
+      "cityState": "Klamath Falls, OR"
+    },
+    {
+      "code": "98037",
+      "cityState": "Lynnwood, WA"
+    },
+    {
+      "code": "98144",
+      "cityState": "Seattle, WA"
+    },
+    {
+      "code": "98290",
+      "cityState": "Snohomish, WA"
+    },
+    {
+      "code": "98444",
+      "cityState": "Tacoma, WA"
+    },
+    {
+      "code": "98503",
+      "cityState": "Lacey, WA"
+    },
+    {
+      "code": "98512",
+      "cityState": "Olympia, WA"
+    },
+    {
+      "code": "98604",
+      "cityState": "Battle Ground, WA"
+    },
+    {
+      "code": "98607",
+      "cityState": "Camas, WA"
+    },
+    {
+      "code": "98801",
+      "cityState": "Wenatchee, WA"
+    },
+    {
+      "code": "98837",
+      "cityState": "Moses Lake, WA"
+    },
+    {
+      "code": "98908",
+      "cityState": "Yakima, WA"
+    },
+    {
+      "code": "99337",
+      "cityState": "Kennewick, WA"
+    },
+    {
+      "code": "99504",
+      "cityState": "Anchorage, AK"
+    },
+    {
+      "code": "99654",
+      "cityState": "Wasilla, AK"
+    }
+  ]
+}
